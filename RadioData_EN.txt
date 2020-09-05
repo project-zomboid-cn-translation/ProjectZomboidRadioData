@@ -44,25 +44,25 @@ d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 =
 8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = 
 
 //1771. ORIGINAL [#FFFFC000]: Hey you're back with Frankie on Knooox Hiiits...
-3e0f8f79-2475-4ad6-899d-edacf57149b5 = 
+3e0f8f79-2475-4ad6-899d-edacf57149b5 = 嘿！欢迎回到由弗兰克主持的诺——克斯头——条...
 
-//1772. ORIGINAL [#FFFFC000]: Scary days but we're pushing through till noon.
-24f9beb6-3c7c-4196-b94b-cfc2f18af690 = 
+  //1772. ORIGINAL [#FFFFC000]: Scary days but we're pushing through till noon.
+24f9beb6-3c7c-4196-b94b-cfc2f18af690 = 多么可怕的日子，但我们要熬到中午。
 
 //1773. ORIGINAL [#FFFFC000]: Before I hit the button on Hidden, the new hit from The Question.
 70f4093a-adac-4bbf-9924-e65d1a7a8d5b = 
 
 //1774. ORIGINAL [#FFFFC000]: We've been asked to tell y'all:
-b995ec09-4182-444e-acbc-b4bea2cc0eb8 = 
+b995ec09-4182-444e-acbc-b4bea2cc0eb8 = 我们被要求告诉大家:
 
 //1775. ORIGINAL [#FFFFC000]: Stay where you are.
-e6ff8a23-7544-4b74-9909-9b698de5049f = 
+e6ff8a23-7544-4b74-9909-9b698de5049f = 待在原地。
 
 //1776. ORIGINAL [#FFFFC000]: Lots of folk trying to come in, but y'all are blocking the roads.
-4398b38e-22b8-4943-81a8-51b2077c7541 = 
+4398b38e-22b8-4943-81a8-51b2077c7541 = 许多人试着进来，但他们全被堵在路上了。
 
 //1777. ORIGINAL [#FFFFC000]: Please help the military help you. Thank you.
-31339a52-1088-49de-a9a0-1915178fc8ff = 
+31339a52-1088-49de-a9a0-1915178fc8ff = 请协助军队帮助你。谢谢。
 
 //1778. ORIGINAL [#FFFFC000]: Okay that's the serious stuff here, been and gone.
 04976423-f296-46b6-9af5-af218b8900b8 = 
@@ -77,28 +77,28 @@ f98356e0-ea8d-4a98-a1e3-25c41f10790d =
 9678c59a-b503-4d85-9bb0-08e4688e2448 = 
 
 //1782. ORIGINAL [#FF8080FF]: First a message from our sponsors...
-b197834e-4ee9-4880-a7e8-bbb7be27b167 = 
+b197834e-4ee9-4880-a7e8-bbb7be27b167 = 首先是来自我们的赞助商的消息...
 
 //1783. ORIGINAL [#FF8080FF]: Actually, it's from the guys who parked a tank on my drive.
-80e3b48d-88af-4233-9eef-fb31192a3e7d = 
+80e3b48d-88af-4233-9eef-fb31192a3e7d = 事实上，是那些把坦克停在我家车道上的家伙发来的。
 
 //1784. ORIGINAL [#FF8080FF]: The Army. Love those guys.
-65646a1a-5c28-47c8-9289-d786beea72aa = 
+65646a1a-5c28-47c8-9289-d786beea72aa = 陆军。喜欢那些家伙
 
 //1785. ORIGINAL [#FF8080FF]: They've asked us to say: 'Stay. Where. You. Are.'
-c17fa922-3dcc-42ba-af7f-5444e2e780de = 
+c17fa922-3dcc-42ba-af7f-5444e2e780de = 他们让我们说:'待。在。原。地。'
 
 //1786. ORIGINAL [#FF8080FF]: You guys listening in on the roads gettin' away?
-03cdeaa3-9499-458f-a92b-667643ac3291 = 
+03cdeaa3-9499-458f-a92b-667643ac3291 = 你们听话离开道路了吗？
 
 //1787. ORIGINAL [#FF8080FF]: You're in their way.
-62916e1a-ef4a-4c14-8df2-0b3b4763c23a = 
+62916e1a-ef4a-4c14-8df2-0b3b4763c23a = 你挡了他们的路。
 
 //1788. ORIGINAL [#FF8080FF]: Hey General, maybe if you told us what was going on?
-69011683-1257-455d-8fe7-dc03ffbf2903 = 
+69011683-1257-455d-8fe7-dc03ffbf2903 = 嘿，将军，也许您能告诉我们发生了什么事？
 
 //1789. ORIGINAL [#FF8080FF]: Maybe then people would be less inclined to high-tail and run?
-724e0c35-5705-49a1-ba7c-d255b9e517ae = 
+724e0c35-5705-49a1-ba7c-d255b9e517ae = 也许这之后逃跑的人会减少？
 
 //1790. ORIGINAL [#FF8080FF]: Here's Steamship Hurricane, and Over.
 4ade2c75-6bf9-46e2-980a-6e29158fc84b = 
@@ -230,13 +230,13 @@ c0b10e55-05ad-4a8c-97ff-c6b02510d578 =
 26e9a3c7-f5f8-4851-b646-09ce031fa232 = 
 
 //1833. ORIGINAL [#FFFFC000]: Hey this is Frank-i-e.
-b8f927eb-bd0f-427b-83b9-4049fdf3d31e = 
+b8f927eb-bd0f-427b-83b9-4049fdf3d31e = 嘿，我是弗兰克——
 
 //1834. ORIGINAL [#FFFFC000]: Lots of eyes on our slice of Kentucky.
-96e726c1-ad8f-417a-820b-9c46a7b79c2f = 
+96e726c1-ad8f-417a-820b-9c46a7b79c2f = 许多人正关注
 
 //1835. ORIGINAL [#FFFFC000]: Everyone smile and dress up nice.
-91a57e97-444a-4c5b-9052-2f535a0d1d14 = 
+91a57e97-444a-4c5b-9052-2f535a0d1d14 = 每个人都面带微笑，精心打扮。
 
 //1836. ORIGINAL [#FFFFC000]: We can get through this folks.
 8319364b-6dd3-4f7d-adb2-17d20499fd25 = 
@@ -248,13 +248,13 @@ b8f927eb-bd0f-427b-83b9-4049fdf3d31e =
 3cf58f14-9ea8-45f6-9b92-f84e65b08054 = 
 
 //1839. ORIGINAL [#FF8080FF]: Flights grounded. Folks displaced.
-e28c61a9-535c-4ebc-b1b9-7ac2cf1e2e0c = 
+e28c61a9-535c-4ebc-b1b9-7ac2cf1e2e0c = 航班停飞。人们流离失所。
 
 //1840. ORIGINAL [#FF8080FF]: Who knew this place could change the world?
-7be4685f-98d2-450d-b68c-58222673acdc = 
+7be4685f-98d2-450d-b68c-58222673acdc = 谁知道这个地方会改变世界？
 
 //1841. ORIGINAL [#FF8080FF]: Maybe sometime soon we'll actually get told what's going on.
-ca26592e-3107-4396-b6d1-f1c171fbad0b = 
+ca26592e-3107-4396-b6d1-f1c171fbad0b = 也许很快我们就会知道发生了什么。
 
 //1842. ORIGINAL [#FF8080FF]: Speaking of...
 592b06bf-4ae6-4af1-b8ec-b04340f52d51 = 
@@ -266,19 +266,19 @@ ca26592e-3107-4396-b6d1-f1c171fbad0b =
 160c11a7-412b-4ee9-b5e5-a2d7f19435ce = 
 
 //1845. ORIGINAL [#FF00B050]: It's Billy, here with you till midnight.
-ef82aed3-5dc7-47fd-983b-a77e653d75ab = 
+ef82aed3-5dc7-47fd-983b-a77e653d75ab = 我是比利，我会陪你直到午夜。
 
 //1846. ORIGINAL [#FF00B050]: Soldiers in the streets.
-db5cca9c-a1f0-45eb-a00d-2795f36f5629 = 
+db5cca9c-a1f0-45eb-a00d-2795f36f5629 = 士兵们在大街上。
 
 //1847. ORIGINAL [#FF00B050]: Empty skies.
-97f7eb92-3180-441b-8a10-d7061298753c = 
+97f7eb92-3180-441b-8a10-d7061298753c = 空荡荡的天空。
 
 //1848. ORIGINAL [#FF00B050]: Devil's waiting in Hell...
-ec4e27ab-66c3-4e8d-a182-7caa80c432d7 = 
+ec4e27ab-66c3-4e8d-a182-7caa80c432d7 = 恶魔在地狱中等待
 
 //1849. ORIGINAL [#FF00B050]: ... and we're pushin' our handcart right up to his door.
-0b6b4a56-3cd3-4255-8f30-531e9034ec95 = 
+0b6b4a56-3cd3-4255-8f30-531e9034ec95 = 而我们正推着手推车来到他的门前。
 
 //1850. ORIGINAL [#FFFFC000]: [img=music] Hole in my pocket... [img=music]
 d9e7c294-321e-43f7-98e9-a78a7810140a = 
@@ -305,28 +305,28 @@ d23e9bb4-bb76-4f8e-bc69-7f9d98141f1f =
 527954ff-cdf6-4beb-9f44-06b56583f528 = 
 
 //1858. ORIGINAL [#FF00B050]: We've got a request in from far off New York City.
-ebbc2923-a342-464f-b2f3-261b135a6185 = 
+ebbc2923-a342-464f-b2f3-261b135a6185 = 我们收到了一个由遥远的纽约城发来的请求。
 
 //1859. ORIGINAL [#FF00B050]: It's from Rick, and he says he knows his wife always listens in.
-8ad62d1c-ebd2-455e-8c12-c4b13aeb29f7 = 
+8ad62d1c-ebd2-455e-8c12-c4b13aeb29f7 = 是来自里克的，他说他知道他的妻子经常收听本节目。
 
 //1860. ORIGINAL [#FF00B050]: Rick says Hell's Kitchen is living up to its name tonight.
-5e5d4f73-05fb-48dd-a924-7baadc67e570 = 
+5e5d4f73-05fb-48dd-a924-7baadc67e570 = 里克说，地狱厨房地区今夜名不虚传。
 
 //1861. ORIGINAL [#FF00B050]: People looting, people fighting.
-70326d18-ea58-4928-a35d-a0d6e1c23807 = 
+70326d18-ea58-4928-a35d-a0d6e1c23807 = 人们在抢劫，人们在打斗。
 
 //1862. ORIGINAL [#FF00B050]: But his mind is on Diane - somewhere inside the Exclusion Zone.
-e63fc44d-efc5-49f5-a630-c578d2ac4c19 = 
+e63fc44d-efc5-49f5-a630-c578d2ac4c19 = 但是他只关心戴安娜 - 在封锁区内的某个地方。
 
 //1863. ORIGINAL [#FF00B050]: Diane: he's sorry for leaving.
-d1eafe36-3970-4c97-85ef-ff33bf0c9bb1 = 
+d1eafe36-3970-4c97-85ef-ff33bf0c9bb1 = 他对离开感到抱歉。
 
 //1864. ORIGINAL [#FF00B050]: He's sorry for hitting you with the car.
-f81a5b06-6f47-4f8e-9b64-a499b2200b9e = 
+f81a5b06-6f47-4f8e-9b64-a499b2200b9e = 他为开车撞了你而抱歉。
 
 //1865. ORIGINAL [#FF00B050]: If you can hear this, it's for you.
-65cd89d9-d9f6-47f6-9cdb-322137b2f12e = 
+65cd89d9-d9f6-47f6-9cdb-322137b2f12e = 如果你能听到，这是专为你的。
 
 //1866. ORIGINAL [#FF8080FF]: [img=music] Your love... [img=music]
 6e56436d-1888-41f0-bb5f-ff3a4e2b0858 = 
@@ -404,49 +404,49 @@ c1b37eff-1f5b-459f-bb62-a6ec01da220c =
 5ddd87d7-b2d8-4e7f-b4c2-69fabd1f84aa = 
 
 //1891. ORIGINAL [#FFFFC000]: It's Knox Hits. It's Frank-i-e!
-31c82976-864b-413d-a648-934f0ec5e009 = 
+31c82976-864b-413d-a648-934f0ec5e009 = 这里是诺克斯头条，我是弗兰克——
 
 //1892. ORIGINAL [#FFFFC000]: I'm finding this tough guys, and I know you are too.
-c0b2effe-8516-4a1e-a145-9fafe20ff7fd = 
+c0b2effe-8516-4a1e-a145-9fafe20ff7fd = 我找到了这些坚强的人，而我知道你也是。
 
 //1893. ORIGINAL [#FFFFC000]: I'm not saying let's pretend it's all normal.
-377eec5c-07bf-4f6a-910e-9d63a5e5e583 = 
+377eec5c-07bf-4f6a-910e-9d63a5e5e583 = 我不是说让我们假装一切正常。
 
 //1894. ORIGINAL [#FFFFC000]: I'm saying... let's have Every Reason do it for us.
-4fd0fd34-d679-4e3b-b901-c534bb166662 = 
+4fd0fd34-d679-4e3b-b901-c534bb166662 = 我是说...让我们有充分的理由为自己做这件事。
 
 //1895. ORIGINAL [#FF8080FF]: Nice guy from the Army came back round.
-36975373-ad4d-4094-8ab6-af19bf477b6b = 
+36975373-ad4d-4094-8ab6-af19bf477b6b = 军队里的好人又回来了。
 
 //1896. ORIGINAL [#FF8080FF]: Ask us real nice not to 'promote panic'.
-a84b3714-6321-4156-86a6-a325342b25c6 = 
+a84b3714-6321-4156-86a6-a325342b25c6 = 他们请我们不要“渲染恐慌”
 
 //1897. ORIGINAL [#FF8080FF]: Apparently they don't trust you guys...
-76c28e0c-a014-4b70-ba9c-75a4d21ed626 = 
+76c28e0c-a014-4b70-ba9c-75a4d21ed626 = 显然他们并不信任你们...
 
 //1898. ORIGINAL [#FF8080FF]: ...you and your fear of what in heck they're doing.
-3330bb1f-5cc0-4a30-a52f-e88820853eb2 = 
+3330bb1f-5cc0-4a30-a52f-e88820853eb2 = ...你和你对他们到底在做什么的恐惧。
 
 //1899. ORIGINAL [#FF8080FF]: You wanting food from the stores.
-111e7964-17f2-4d4b-95e0-8f64a6ee1d06 = 
+111e7964-17f2-4d4b-95e0-8f64a6ee1d06 = 你想着从商店买食物。
 
 //1900. ORIGINAL [#FF8080FF]: Gasoline in your tank...
-491a5396-83b8-4e17-a07b-c8a075605506 = 
+491a5396-83b8-4e17-a07b-c8a075605506 = 想着油箱里的汽油...
 
 //1901. ORIGINAL [#FF8080FF]: This is a message for the Army guy:
-78da932b-d178-4313-aed5-6569c99153cb = 
+78da932b-d178-4313-aed5-6569c99153cb = 这是一条给军人的消息:
 
 //1902. ORIGINAL [#FF8080FF]: Bite me'.
-1e87a20c-7b88-486b-8757-ce220cd44e1c = 
+1e87a20c-7b88-486b-8757-ce220cd44e1c = 咬我。
 
 //1903. ORIGINAL [#FF00B050]: I don't know much, but I know it when times are bad.
-69389fc6-d150-4165-96c0-0323bad45c56 = 
+69389fc6-d150-4165-96c0-0323bad45c56 = 我知道的不多，但我知道时局并不好。
 
 //1904. ORIGINAL [#FF00B050]: Y'all are in Billy's thoughts.
-024bd224-3bbd-4423-a45a-7c57f7348775 = 
+024bd224-3bbd-4423-a45a-7c57f7348775 = 比利在想着你们。
 
 //1905. ORIGINAL [#FF00B050]: Maybe this'll chase the rain away.
-fb0a1eab-a70a-46fe-86cb-842b656867a7 = 
+fb0a1eab-a70a-46fe-86cb-842b656867a7 = 也许这能赶走阴雨。
 
 //1906. ORIGINAL [#FF8080FF]: [img=music] Well hey now Buck, you're plum outta luck! [img=music]
 7e1455e1-5d39-4ec0-b77c-3bf62e50f2d9 = 
@@ -467,37 +467,37 @@ cbec084b-8250-4af2-bea9-feb531904803 =
 e03bd8cd-588c-494c-8884-9641fa4daa4c = 
 
 //1912. ORIGINAL [#FF8080FF]: GOOD NIGHT LOUISIANA! WE LOVE YOU!
-571386b1-7751-47e0-8263-b3acabd29ca9 = 
+571386b1-7751-47e0-8263-b3acabd29ca9 = 路易斯安那州晚安！我们爱你！
 
 //1913. ORIGINAL [Black]: *applause*
-4cad1678-25d9-4227-b05d-134230ec2fb1 = 
+4cad1678-25d9-4227-b05d-134230ec2fb1 = *掌声*
 
 //1914. ORIGINAL [#FF00B050]: ... it's just not workin' Ben...
-5a527e44-7357-4798-ab70-03bfad0f3d0a = 
+5a527e44-7357-4798-ab70-03bfad0f3d0a = ...这根本不起作用，本...
 
 //1915. ORIGINAL [#FFFFC000]: It's Knox Hits. It's Frank-i-e.
-13477e76-c7c9-4ac3-9173-ee6141f2386d = 
+13477e76-c7c9-4ac3-9173-ee6141f2386d = 这里是诺克斯头条。我是弗兰克——
 
 //1916. ORIGINAL [#FFFFC000]: Oh God I'm not good at this.
-b46503ac-480a-40c5-bedc-dc3c6242a5d0 = 
+b46503ac-480a-40c5-bedc-dc3c6242a5d0 = 天啊，我不擅长这个。
 
 //1917. ORIGINAL [#FFFFC000]: If you haven't heard. Just turn to a news channel.
-35f61a6c-9a3f-49ef-b851-2c2092c0d05d = 
+35f61a6c-9a3f-49ef-b851-2c2092c0d05d = 如果你还没听说过的话。只要转到新闻频道。
 
 //1918. ORIGINAL [#FFFFC000]: Everyone inside is dead.
-7573e918-a8b2-4ea8-ab81-df01e3d85e76 = 
+7573e918-a8b2-4ea8-ab81-df01e3d85e76 = 里面的所有人都死了。
 
 //1919. ORIGINAL [#FFFFC000]: EVERYONE.
-24d4b7b7-0428-4ae0-8c46-628c9c0f0457 = 
+24d4b7b7-0428-4ae0-8c46-628c9c0f0457 = 所！有！人！
 
 //1920. ORIGINAL [#FFFFC000]: I'm going to puke.
-c4e4991f-715a-4754-9b23-c0ef0578b624 = 
+c4e4991f-715a-4754-9b23-c0ef0578b624 = 我要吐了。
 
 //1921. ORIGINAL [#FFFFC000]: Someone else do this.
 65e56077-22e1-4809-8008-4249cdc613a4 = 
 
 //1922. ORIGINAL [#FF282828]: <muffle> <muffle>
-06fdaa5a-abb7-4d41-95c3-bba01169f4ba = 
+06fdaa5a-abb7-4d41-95c3-bba01169f4ba = <消音> <消音>
 
 //1923. ORIGINAL [#FFFFC000]: Do I look like I CARE?
 4ffb4a28-b646-4944-b97c-17ee08a4a84d = 
@@ -515,43 +515,43 @@ af49406c-d8f6-4e18-b624-de419dbc1186 =
 7cfe36fb-ee04-43ee-a60b-6127df63f910 = 
 
 //1928. ORIGINAL [#FF8080FF]: Hey this is Janine.
-1e2a447e-f2e0-474a-a1c8-0f0762d6014a = 
+1e2a447e-f2e0-474a-a1c8-0f0762d6014a = 嘿，我是珍妮。 
 
 //1929. ORIGINAL [#FF8080FF]: This'll be the last broadcast.
-82942f06-e09a-4d40-8517-69fa436b0670 = 
+82942f06-e09a-4d40-8517-69fa436b0670 = 这将是最后一次广播。
 
 //1930. ORIGINAL [#FF8080FF]: My last broadcast anyways.
-d88d6ca4-3184-491e-b86a-e35038b54d3f = 
+d88d6ca4-3184-491e-b86a-e35038b54d3f = 反正是我的最后一次广播。
 
 //1931. ORIGINAL [#FF8080FF]: Dearest Daddy's got a cabin high in the Appalachians.
-754c14c5-b0f9-494d-8e6e-8cb5c504989e = 
+754c14c5-b0f9-494d-8e6e-8cb5c504989e = 我亲爱的爸爸在阿巴拉契亚山脉有一间小屋。
 
 //1932. ORIGINAL [#FF8080FF]: I'm going there, as whatever's happening here?
-660d3006-3efe-43a1-a14c-2f2d7ffc33be = 
+660d3006-3efe-43a1-a14c-2f2d7ffc33be = 我要去那里，不管这里发生了什么？
 
 //1933. ORIGINAL [#FF8080FF]: Nightmare doesn't quite cut it.
 f0f9dc3a-f641-49a5-89af-335b93277705 = 
 
 //1934. ORIGINAL [#FF8080FF]: I'd advise you do similar.
-54543e5d-a3ea-4fd6-9b1d-4f7e5a187f0e = 
+54543e5d-a3ea-4fd6-9b1d-4f7e5a187f0e = 我建议你也这样做。
 
 //1935. ORIGINAL [#FF8080FF]: Now for a godawful song that's so inappropriate it hurts.
-5f0659fe-92da-4d4f-8cae-9c14f7eaf6ff = 
+5f0659fe-92da-4d4f-8cae-9c14f7eaf6ff = 现在换一首令人讨厌的歌，真是太让人受伤了。
 
 //1936. ORIGINAL [#FF8080FF]: But hey, apparently we still go from the playlist.
 7ee773b9-e454-4ec3-9d7a-6dd98d9f47fc = 
 
 //1937. ORIGINAL [#FF8080FF]: Bye guys.
-ff9d8ecf-070d-4bd6-ab3e-5feec39243f1 = 
+ff9d8ecf-070d-4bd6-ab3e-5feec39243f1 = 大家再见。
 
 //1938. ORIGINAL [#FF8080FF]: See y'all later down the trail.
-4c3596fa-7971-49cd-961b-319eacad04e3 = 
+4c3596fa-7971-49cd-961b-319eacad04e3 = 回头见。
 
 //1939. ORIGINAL [#FF00B050]: Folk round here are running.
-d0490908-a952-4494-9a1c-038a01e7ba46 = 
+d0490908-a952-4494-9a1c-038a01e7ba46 = 这里的人都在奔跑。
 
 //1940. ORIGINAL [#FF00B050]: Me? Well there's no place to go.
-98fae746-f9b4-43f7-a60c-ccc4a09ff90c = 
+98fae746-f9b4-43f7-a60c-ccc4a09ff90c = 我？我没地方可去。
 
 //1941. ORIGINAL [#FF00B050]: So it's just me and you.
 9c7f74d2-9d45-4f0c-8506-f66d23da2066 = 
@@ -584,19 +584,19 @@ e3ceed3e-717d-4e43-b56d-38cfa6c09de6 =
 79b24afa-80a6-4491-ac53-4a85b0eccd26 = 
 
 //1951. ORIGINAL [#FF00B050]: You're tuned to Billy's Show.
-2f1c0236-df4f-4e80-a5d7-8a7888a46794 = 
+2f1c0236-df4f-4e80-a5d7-8a7888a46794 = 您正收听比利秀。
 
 //1952. ORIGINAL [#FF00B050]: Covering for Janine, all the way through to midnight.
 4f5bee67-2b64-40f6-a3bd-4183e7b30d81 = 
 
 //1953. ORIGINAL [#FF00B050]: Now I used to go to church.
-9ec56b93-eb86-4dc6-bcd2-fe41fb2aac9a = 
+9ec56b93-eb86-4dc6-bcd2-fe41fb2aac9a = 我过去常去教堂。
 
 //1954. ORIGINAL [#FF00B050]: Minister there used to sound off... about hellfire and damnation.
-59816be9-c71b-44cb-9ab1-bac085cc57b1 = 
+59816be9-c71b-44cb-9ab1-bac085cc57b1 = 那里的牧师过去常常大呼... 关于地狱之火和诅咒。
 
 //1955. ORIGINAL [#FF00B050]: Kinda put me off.
-987badf2-3310-4e04-b279-8a4d6708425b = 
+987badf2-3310-4e04-b279-8a4d6708425b = 有点让我厌烦。
 
 //1956. ORIGINAL [#FF00B050]: I am now willing to reconsider.
 c398b2e3-db11-46f4-b1b4-856247945b39 = 
@@ -686,19 +686,19 @@ a5014284-87b6-442e-88ac-7fa31add51d6 =
 fc1e80b0-be2c-4687-a7b7-041f975124c6 = 
 
 //1985. ORIGINAL [#FF8080FF]: Thank you Czech Republic! We love you!
-007851c4-3207-4ac5-a1b5-59b2c7ce4db3 = 
+007851c4-3207-4ac5-a1b5-59b2c7ce4db3 = 感谢捷克共和国！我们爱你！
 
 //1986. ORIGINAL [#FF00B050]: I'll be off air for a while folks.
-09766d32-28cf-4009-876b-bf7c6c333f3e = 
+09766d32-28cf-4009-876b-bf7c6c333f3e = 朋友们，我要停播一段时间了。
 
 //1987. ORIGINAL [#FF00B050]: Gonna keep my head down.
-2eef96d5-570e-45f8-a39b-401fac47a618 = 
+2eef96d5-570e-45f8-a39b-401fac47a618 = 我要保持低调。
 
 //1988. ORIGINAL [#FF00B050]: Feels like a storm blowing in.
-52a40b0c-a0ac-4b9c-8b5b-e5756747ce12 = 
+52a40b0c-a0ac-4b9c-8b5b-e5756747ce12 = 感觉像是刮起了风暴。
 
 //1989. ORIGINAL [#FF00B050]: Keep safe y'all.
-0f979956-6174-4c27-aff2-362674055a0b = 
+0f979956-6174-4c27-aff2-362674055a0b = 大家注意安全。
 
 //1990. ORIGINAL [#FF00B050]: This is the Late Night Love slot.
 e356a94d-3dd6-4956-b3e4-7104f351a6a6 = 
@@ -770,136 +770,136 @@ afa2bce8-a1e9-471d-b02d-4c651fcf457c =
 63730f3a-27d1-4aa3-9685-b70b496d301d = 
 
 //2013. ORIGINAL [#FFFFC000]: This is Triple-N.
-c0e6f11b-281a-47ce-a1ba-04c10e018a72 = 
+c0e6f11b-281a-47ce-a1ba-04c10e018a72 = 这里是Triple-N.
 
 //2014. ORIGINAL [#FFFFC000]: We're going straight to Kentucky for this developing story.
-0e6b5744-415f-4d0d-9d6d-bb2336964c0e = 
+0e6b5744-415f-4d0d-9d6d-bb2336964c0e = 我们将直接前往肯塔基州，报道这个不断发展的故事。
 
 //2015. ORIGINAL [#FFFFC000]: Kirsty Cormick, are you there?
-32de5ed4-f11f-4f51-8615-bfefbf1c9c78 = 
+32de5ed4-f11f-4f51-8615-bfefbf1c9c78 = 柯斯蒂·科米克，你在现场吗?
 
 //2016. ORIGINAL [#FF8080FF]: I am Joan. It's 48 hours since this all began.
-488d4c7d-d961-412a-a149-c66b9e44106c = 
+488d4c7d-d961-412a-a149-c66b9e44106c = 我是琼。这一切已经发生48小时了。
 
 //2017. ORIGINAL [#FF8080FF]: A community laid low with an unknown illness.
-7866948a-904c-4b3f-a769-9da739b309ea = 
+7866948a-904c-4b3f-a769-9da739b309ea = 一个社区因一种未知的疾病而陷于瘫痪。
 
 //2018. ORIGINAL [#FF8080FF]: A military perimeter set up almost overnight.
-b9a7aca0-5515-41da-8082-024c9cdf7cc9 = 
+b9a7aca0-5515-41da-8082-024c9cdf7cc9 = 一个军事分界线几乎在一夜之间建立起来。
 
 //2019. ORIGINAL [#FF8080FF]: Then the rumors of civilian confusion and bizarre activity within the zone.
-18287008-7bee-4f13-b93b-bab7a34ecb28 = 
+18287008-7bee-4f13-b93b-bab7a34ecb28 = 然后是关于市民混乱和区域内怪异活动的谣言。
 
 //2020. ORIGINAL [#FF8080FF]: There are helicopters overhead, scientists in hazmat suits...
-582d835f-ef33-4e2a-a724-b4c14caacf93 = 
+582d835f-ef33-4e2a-a724-b4c14caacf93 = 天空上盘旋着直升机，科学家们穿着防护服...
 
 //2021. ORIGINAL [#FF8080FF]: This county has been split in two, and folk are scared.
-0fe6e61b-fbdb-4b54-9e32-c3dec4027a8a = 
+0fe6e61b-fbdb-4b54-9e32-c3dec4027a8a = 这个郡已经被一分为二，人们都很害怕。
 
 //2022. ORIGINAL [#FF00B050]: My daughter and my grandchildren are in there!
-716de09b-15e5-4d2c-8dbe-df86fe5db9dd = 
+716de09b-15e5-4d2c-8dbe-df86fe5db9dd = 我的女儿和孙子都在里面！
 
 //2023. ORIGINAL [#FF00B050]: I was staying at my fella's and... I was gonna go back but...
-651ffca3-2da2-49e5-a1c3-f062dd897c3f = 
+651ffca3-2da2-49e5-a1c3-f062dd897c3f = 我当时待在哥们家，然后...我本来想回去的，但...
 
 //2024. ORIGINAL [#FF00B050]: Phones are still out.
-d1d955ed-d343-4c7e-ad11-87989bd147ad = 
+d1d955ed-d343-4c7e-ad11-87989bd147ad = 电话始终打不通。
 
 //2025. ORIGINAL [#FF00B050]: What's going on in there?
-a56c1961-de47-4c99-a49a-cd02e2d26f32 = 
+a56c1961-de47-4c99-a49a-cd02e2d26f32 = 里面发生了什么？
 
 //2026. ORIGINAL [#FF00B050]: What's so bad they can't even pick up the phone?
-3ef3d8e9-bfe1-4ad4-9317-d2b34b687331 = 
+3ef3d8e9-bfe1-4ad4-9317-d2b34b687331 = 发生了什么糟糕的事让他们连电话都接不了？
 
 //2027. ORIGINAL [#FFFFC000]: Well further to that interview...
-d1b60789-5038-4170-bb3e-df3419114c7a = 
+d1b60789-5038-4170-bb3e-df3419114c7a = 好吧，继续我们的采访...
 
 //2028. ORIGINAL [#FFFFC000]: Knox Telecommunications claim the lines are down for long-planned improvement works.
-bad10987-260f-498f-853e-32bcc5a4ee0b = 
+bad10987-260f-498f-853e-32bcc5a4ee0b = 诺克斯电信公司声称，由于长期的维护工程，电话线路已被切断。
 
 //2029. ORIGINAL [#FFFFC000]: Terrible timing, or something more?
-2f9be86b-8bd2-46ea-8916-4724ae0900b9 = 
+2f9be86b-8bd2-46ea-8916-4724ae0900b9 = 糟糕的时间点，或者有更多？
 
 //2030. ORIGINAL [#FFFFC000]: You'll find out here...
-8dae43a9-b22a-45cf-bd77-d5425c650294 = 
+8dae43a9-b22a-45cf-bd77-d5425c650294 = 你可以在这里找到答案...
 
 //2031. ORIGINAL [#FFFFC000]: ... on Triple-N
-8bd22406-da8c-4268-a67c-9b56bb9757b1 = 
+8bd22406-da8c-4268-a67c-9b56bb9757b1 = ...在Triple-N
 
 //2032. ORIGINAL [#FF00B0F0]: Judge Matt Hass - on Triple-N!
 6190f194-88ef-4d5e-b6a9-736a444a1f6e = 
 
 //2033. ORIGINAL [#FF00B0F0]: The voice of reason!
-06d6711c-0fc2-4bf1-b55d-6f428651268b = 
+06d6711c-0fc2-4bf1-b55d-6f428651268b = 理性的声音！
 
 //2034. ORIGINAL [#FF00B050]: So what is it? I'm no scientist...
-f927406e-7fb3-48ce-bc3c-609507e98e41 = 
+f927406e-7fb3-48ce-bc3c-609507e98e41 = 那么它是什么呢？我不是科学家...
 
 //2035. ORIGINAL [#FF00B050]: I didn't listen in class. Too busy on the Football field.
-c3db2f89-ddff-4b01-b710-1d343fa89291 = 
+c3db2f89-ddff-4b01-b710-1d343fa89291 = 我没听课。忙着踢足球。
 
 //2036. ORIGINAL [#FF00B050]: We know folks are ill.
-bfd33af9-29f6-44be-a169-5812ad1a47ad = 
+bfd33af9-29f6-44be-a169-5812ad1a47ad = 我们知道有人生病了。
 
 //2037. ORIGINAL [#FF00B050]: We know it's widespread.
-5b25ccd0-d3e0-4687-bf94-d848be98058f = 
+5b25ccd0-d3e0-4687-bf94-d848be98058f = 我们知道这很普遍。
 
 //2038. ORIGINAL [#FF00B050]: We know no-one could get out while the soldiers rolled on in.
-7678d418-f890-45fb-9922-1de84fc3e36d = 
+7678d418-f890-45fb-9922-1de84fc3e36d = 我们知道，当士兵们继续前进时，没人能脱身。
 
 //2039. ORIGINAL [#FF00B050]: We know they're back on their feet, but we also know there's confusion.
-8044cb83-a4b3-40f2-92bb-8ab744cacd82 = 
+8044cb83-a4b3-40f2-92bb-8ab744cacd82 = 我们知道他们重新站起来了，但是我们也有困惑。
 
 //2040. ORIGINAL [#FF00B050]: I'd be confused too, if I woke up and someone had built a military cordon round me!
-3582967a-4ffe-4645-9265-5bb955e048b0 = 
+3582967a-4ffe-4645-9265-5bb955e048b0 = 如果我醒来，发现有人在我周围设了一道军事警戒线，我也会感到困惑的！
 
 //2041. ORIGINAL [#FF00B050]: But they've got scientists to talk to now. Guys in chemical suits.
-655b369c-d1f4-4f71-b6dd-6671670ce633 = 
+655b369c-d1f4-4f71-b6dd-6671670ce633 = 但是现在有科学家在与他们交谈。 那些穿着防化服的人。
 
 //2042. ORIGINAL [#FF00B050]: They've got the best in the business. Heck, the world...
-6e0c8792-247c-48b0-8800-1b7267cdd4ab = 
+6e0c8792-247c-48b0-8800-1b7267cdd4ab = 他们是业内最好的人士。见鬼，全世界...
 
 //2043. ORIGINAL [#FF00B050]: ... in there to fix this whole thing up.
-99019ce0-922f-4d0c-b628-e98e2b7dcc33 = 
+99019ce0-922f-4d0c-b628-e98e2b7dcc33 = 都在想办法解决这件事。
 
 //2044. ORIGINAL [#FF00B050]: So let's support our boys, people.
-cd030c62-36e4-4b89-b232-c6770d0ef7ee = 
+cd030c62-36e4-4b89-b232-c6770d0ef7ee = 所以，让我们支持他们吧。
 
 //2045. ORIGINAL [#FF00B050]: This thing, let's call it 'The Knox Event', feels like a powder keg.
-4b831d5a-4a48-49be-af22-7dfb505f0fb7 = 
+4b831d5a-4a48-49be-af22-7dfb505f0fb7 = 这件事，我们称之为“诺克斯事件”，就像一个火药桶。
 
 //2046. ORIGINAL [#FF00B050]: Too many people shouting 'conspiracy', hearing unverified gunshots.
-c02857e5-f012-4c58-aee4-0c2507cdc387 = 
+c02857e5-f012-4c58-aee4-0c2507cdc387 = 有太多的人大喊“阴谋”，听到了未经证实的枪声。
 
 //2047. ORIGINAL [#FF00B050]: No situation is perfect people.
-6db8154c-d10f-4421-acc5-ab2ff7ca58bc = 
+6db8154c-d10f-4421-acc5-ab2ff7ca58bc = 人们认为没有任何情况是完美的。
 
 //2048. ORIGINAL [#FF00B050]: This is a war. A war on whatever this thing is.
-576fa4cd-fa98-483a-aaa7-5d5e32cb48c3 = 
+576fa4cd-fa98-483a-aaa7-5d5e32cb48c3 = 这是一场战争。不管这是什么战争。
 
 //2049. ORIGINAL [#FF00B050]: And, together, it is a war the United States will win.
-b26a731e-84a3-4fec-98f7-91a9a16877c3 = 
+b26a731e-84a3-4fec-98f7-91a9a16877c3 = 所以，团结起来，美国将赢得这场战争。
 
 //2050. ORIGINAL [#FF00B0F0]: That was Judge Matt Hass. Good evening, you're on...
-343e6a15-5c97-4872-aa9d-9a061aeaf3ad = 
+343e6a15-5c97-4872-aa9d-9a061aeaf3ad = 我是贾奇玛特哈斯。晚上好，您正在收听...
 
 //2051. ORIGINAL [#FF00B0F0]: ... Triple-N.
-1188d103-10ca-4622-bc3c-6d05e49b8954 = 
+1188d103-10ca-4622-bc3c-6d05e49b8954 = ...Triple-N。
 
 //2052. ORIGINAL [#FFFFC000]: The outbreak of the 'non-lethal' Knox Event infection is still contained.
-290236a4-c075-44f6-a69e-393e4a135a56 = 
+290236a4-c075-44f6-a69e-393e4a135a56 = “非致命性”的诺克斯事件感染的爆发仍得到控制。
 
 //2053. ORIGINAL [#FFFFC000]: There's no word of 'illness' and 'confusion' outside the Event Zone.
-d72114d7-28db-4fd7-a982-15eb32769be3 = 
+d72114d7-28db-4fd7-a982-15eb32769be3 = 在事发地区以外，不存在“疾病”和“困惑”这两个词。
 
 //2054. ORIGINAL [#FFFFC000]: There is, however, a panic.
-7bc40bde-2ca3-4bfb-8da1-5594c5e53fd0 = 
+7bc40bde-2ca3-4bfb-8da1-5594c5e53fd0 = 然而，还是有一种恐慌。
 
 //2055. ORIGINAL [#FFFFC000]: There's fear in people's faces as they once again camp out...
-2c6d225e-d792-47bd-886e-8a71a483c67f = 
+2c6d225e-d792-47bd-886e-8a71a483c67f = 人们的脸上充满了恐惧，当他们被安置在...
 
 //2056. ORIGINAL [#FFFFC000]: ... in school halls, trailers and Army tents.
-ad799f7c-f80c-4f45-a187-fcde1d67ed1a = 
+ad799f7c-f80c-4f45-a187-fcde1d67ed1a = ...学校大厅，拖车和军用帐篷里。
 
 //2057. ORIGINAL [#FFFFC000]: It's more than two days now since these people heard the voices...
 3385dc2f-6ce8-4563-99e8-b2792be3ca4e = 
@@ -908,10 +908,10 @@ ad799f7c-f80c-4f45-a187-fcde1d67ed1a =
 7e3fed16-bc0e-4450-9957-078b508b0f85 = 
 
 //2059. ORIGINAL [#FF00B0F0]: They could be dead in there!
-465c503a-bcea-4edc-b2c2-fc6b2e7d56ab = 
+465c503a-bcea-4edc-b2c2-fc6b2e7d56ab = 他们可能已经死在那了！
 
 //2060. ORIGINAL [#FF00B0F0]: Sure, power and water are still on.
-43fc15fe-cf4e-49cf-88a7-9d03c370faf7 = 
+43fc15fe-cf4e-49cf-88a7-9d03c370faf7 = 当然，电力和自来水仍在供应。
 
 //2061. ORIGINAL [#FF00B0F0]: But what if they're too sick to eat?
 b9b296fa-47dd-42f3-ab3b-5cd31a844daf = 
