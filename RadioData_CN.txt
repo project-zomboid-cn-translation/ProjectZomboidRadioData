@@ -47,10 +47,10 @@ d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 =
 3e0f8f79-2475-4ad6-899d-edacf57149b5 = 嘿！欢迎回到由弗兰克主持的诺——克斯头——条...
 
   //1772. ORIGINAL [#FFFFC000]: Scary days but we're pushing through till noon.
-24f9beb6-3c7c-4196-b94b-cfc2f18af690 = 多么可怕的日子，但我们要熬到中午。
+24f9beb6-3c7c-4196-b94b-cfc2f18af690 = 惊心动魄的日子，但我们要坚持到中午。
 
 //1773. ORIGINAL [#FFFFC000]: Before I hit the button on Hidden, the new hit from The Question.
-70f4093a-adac-4bbf-9924-e65d1a7a8d5b = 
+70f4093a-adac-4bbf-9924-e65d1a7a8d5b = 在我躲起来之前，我重新选择发问。
 
 //1774. ORIGINAL [#FFFFC000]: We've been asked to tell y'all:
 b995ec09-4182-444e-acbc-b4bea2cc0eb8 = 我们被要求告诉大家:
@@ -65,10 +65,10 @@ e6ff8a23-7544-4b74-9909-9b698de5049f = 待在原地。
 31339a52-1088-49de-a9a0-1915178fc8ff = 请协助军队帮助你。谢谢。
 
 //1778. ORIGINAL [#FFFFC000]: Okay that's the serious stuff here, been and gone.
-04976423-f296-46b6-9af5-af218b8900b8 = 
+04976423-f296-46b6-9af5-af218b8900b8 = 好了，这才是正经事，一直到现在。
 
 //1779. ORIGINAL [#FFFFC000]: This one's for all of y'all.
-c4d98af8-f95b-40d2-9acd-b7ed836ddaae = 
+c4d98af8-f95b-40d2-9acd-b7ed836ddaae = 这首歌是给大家的。
 
 //1780. ORIGINAL [#FF8080FF]: [img=music] It felt like the world couldn't spin right. [img=music]
 f98356e0-ea8d-4a98-a1e3-25c41f10790d = 
@@ -494,25 +494,25 @@ b46503ac-480a-40c5-bedc-dc3c6242a5d0 = 天啊，我不擅长这个。
 c4e4991f-715a-4754-9b23-c0ef0578b624 = 我要吐了。
 
 //1921. ORIGINAL [#FFFFC000]: Someone else do this.
-65e56077-22e1-4809-8008-4249cdc613a4 = 
+65e56077-22e1-4809-8008-4249cdc613a4 = 其他人应该做这个。
 
 //1922. ORIGINAL [#FF282828]: <muffle> <muffle>
 06fdaa5a-abb7-4d41-95c3-bba01169f4ba = <消音> <消音>
 
 //1923. ORIGINAL [#FFFFC000]: Do I look like I CARE?
-4ffb4a28-b646-4944-b97c-17ee08a4a84d = 
+4ffb4a28-b646-4944-b97c-17ee08a4a84d = 我看起来像是很*在乎*吗？
 
 //1924. ORIGINAL [#FFFFC000]: You told me to stay here.
-af49406c-d8f6-4e18-b624-de419dbc1186 = 
+af49406c-d8f6-4e18-b624-de419dbc1186 = 你告诉我要待在这里。
 
 //1925. ORIGINAL [#FFFFC000]: If anything happens it's on YOU.
-2228ed47-a306-47b6-b19e-de439af081c9 = 
+2228ed47-a306-47b6-b19e-de439af081c9 = 如果发生了什么事，这是*你*的责任。
 
 //1926. ORIGINAL [#FFFFC000]: ON YOU.
-91af1453-3849-43bc-8a80-88e1fd280d54 = 
+91af1453-3849-43bc-8a80-88e1fd280d54 = *你* *的*。
 
 //1927. ORIGINAL [#FFFFC000]: I don't give a GODDAMN that I'm on air.
-7cfe36fb-ee04-43ee-a60b-6127df63f910 = 
+7cfe36fb-ee04-43ee-a60b-6127df63f910 = 我才不*该死的*在乎我是否在直播。
 
 //1928. ORIGINAL [#FF8080FF]: Hey this is Janine.
 1e2a447e-f2e0-474a-a1c8-0f0762d6014a = 嘿，我是珍妮。 
@@ -530,7 +530,7 @@ d88d6ca4-3184-491e-b86a-e35038b54d3f = 反正是我的最后一次广播。
 660d3006-3efe-43a1-a14c-2f2d7ffc33be = 我要去那里，不管这里发生了什么？
 
 //1933. ORIGINAL [#FF8080FF]: Nightmare doesn't quite cut it.
-f0f9dc3a-f641-49a5-89af-335b93277705 = 
+f0f9dc3a-f641-49a5-89af-335b93277705 = 噩梦并不能完全切中要害。
 
 //1934. ORIGINAL [#FF8080FF]: I'd advise you do similar.
 54543e5d-a3ea-4fd6-9b1d-4f7e5a187f0e = 我建议你也这样做。
@@ -554,7 +554,7 @@ d0490908-a952-4494-9a1c-038a01e7ba46 = 这里的人都在奔跑。
 98fae746-f9b4-43f7-a60c-ccc4a09ff90c = 我？我没地方可去。
 
 //1941. ORIGINAL [#FF00B050]: So it's just me and you.
-9c7f74d2-9d45-4f0c-8506-f66d23da2066 = 
+9c7f74d2-9d45-4f0c-8506-f66d23da2066 = 所以这只有我和你。
 
 //1942. ORIGINAL [#FF00B050]: And Jimmy-Jay Jones y'all...
 b5b29152-b118-431e-9761-7cad27520830 = 
@@ -1694,121 +1694,121 @@ f84e3dd5-86f2-4018-91d4-da9018eb2fa1 = 以及围绕所谓的“诺克斯事件�
 4afa783d-b04f-4294-98b4-f03d2c8251fb = 纽约，迈阿密，洛杉矶，还有更多的城市。
 
 //2321. ORIGINAL [#FFFFC000]: These pictures show military forces setting up shop in the heart of our cities.
-6c1fe212-f69a-4b63-b49a-25d8111fc3ae = 
+6c1fe212-f69a-4b63-b49a-25d8111fc3ae = 这些图片显示军队驻扎在了城市心脏地带的商店里。
 
 //2322. ORIGINAL [#FFFFC000]: Troops in Times Square. Tanks on Miami Beach.
-8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = 
+8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = 步兵进入了时代广场。坦克开上了迈阿密海滩。
 
 //2323. ORIGINAL [#FFFFC000]: To find out how this will impact on you...
-44917f13-b19a-4a96-85f1-10dabb2198b2 = 
+44917f13-b19a-4a96-85f1-10dabb2198b2 = 如果你想知道这会对你有什么影响...
 
 //2324. ORIGINAL [#FFFFC000]: ... please change to your regional Triple-N station.
-83bd850a-2b6e-4c21-970e-8de8213ded57 = 
+83bd850a-2b6e-4c21-970e-8de8213ded57 = ...请换到你所在地区的Triple-N电视台。
 
 //2325. ORIGINAL [#FFFFC000]: This morning the President had this to say:
-685085d6-befc-4e62-87e3-f88bfd3ed481 = 
+685085d6-befc-4e62-87e3-f88bfd3ed481 = 今晨，总统表示：
 
 //2326. ORIGINAL [#FF00B0F0]: The curfew begins at 6pm EST. Please stay in your houses.
-62960b71-2cd1-4d29-9017-bb3ada5ef89b = 
+62960b71-2cd1-4d29-9017-bb3ada5ef89b = 宵禁将于美国东部时间下午6点开始。请待在家里。
 
 //2327. ORIGINAL [#FF00B0F0]: Please tune in to local programming for curfew information.
-0872ba0e-4fdf-4a37-a533-5464c87bba0f = 
+0872ba0e-4fdf-4a37-a533-5464c87bba0f = 请收看当地节目了解宵禁信息。
 
 //2328. ORIGINAL [#FF00B050]: Yes, I saw the pictures. We got the fax.
-0dff74f2-02db-4829-9a9f-15cab7b6e157 = 
+0dff74f2-02db-4829-9a9f-15cab7b6e157 = 是的，我看到了照片。我们收到了传真。
 
 //2329. ORIGINAL [#FF00B050]: Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone
-da14d0d0-b5e4-493d-bc55-4424e50cd975 = 
+da14d0d0-b5e4-493d-bc55-4424e50cd975 = 发送给Triple-N的恐怖图片揭示了封锁区内的残酷暴行
 
 //2330. ORIGINAL [#FF00B050]: We can't show the image, but at least one person suffering from the infection...
-a2bcad79-06f3-4aab-b8c2-d92addb9a6dd = 
+a2bcad79-06f3-4aab-b8c2-d92addb9a6dd = 我们无法展示图像，但至少有一个人感染了...
 
 //2331. ORIGINAL [#FF00B050]: ... has attacked another. Viciously.
-5bf76dbb-1b70-4092-90ad-51f6ade0e427 = 
+5bf76dbb-1b70-4092-90ad-51f6ade0e427 = ...而且攻击了另一个人。恶意地。
 
 //2332. ORIGINAL [#FF00B050]: Orally.
-244f1e09-6c32-4f66-8e35-d4a4b1db4cae = 
+244f1e09-6c32-4f66-8e35-d4a4b1db4cae = 口头上的。
 
 //2333. ORIGINAL [#FF00B050]: While sustaining terrible wounds himself.
-63133013-f61a-490f-9427-e98a33f054c7 = 
+63133013-f61a-490f-9427-e98a33f054c7 = 而他自己也受了重伤。
 
 //2334. ORIGINAL [#FF00B050]: We at Triple-N stand here thinking the same as you.
-c99cd365-ac9d-463d-be67-2901750c1595 = 
+c99cd365-ac9d-463d-be67-2901750c1595 = 我们在Triple-N,想你所想。
 
 //2335. ORIGINAL [#FF00B050]: Why weren't we told?
-9e1c1d3d-5f8a-4944-9931-2f1676ad94e2 = 
+9e1c1d3d-5f8a-4944-9931-2f1676ad94e2 = 为什么我们没有被告知？
 
 //2336. ORIGINAL [#FF00B050]: I thought it might be doctored.
-76d0f2a2-bc9d-4cc7-9df4-eb7acc79f481 = 
+76d0f2a2-bc9d-4cc7-9df4-eb7acc79f481 = 我想这张图可能是被篡改的。
 
 //2337. ORIGINAL [#FF00B050]: Then a guy brought us a copy of the original.
-daf74eb4-1ba2-4cca-afee-41817716cef2 = 
+daf74eb4-1ba2-4cca-afee-41817716cef2 = 然后有人给我们带来了一份原件。
 
 //2338. ORIGINAL [#FF00B050]: What you're seeing is an... edited version.
-9b3ee357-d638-4644-83e1-87343c26b483 = 
+9b3ee357-d638-4644-83e1-87343c26b483 = 你现在看到的是一个...被编辑的版本。
 
 //2339. ORIGINAL [#FF00B050]: So what do I think?
-b5dc8496-dd29-432e-9e82-388cefa7edd8 = 
+b5dc8496-dd29-432e-9e82-388cefa7edd8 = 那我怎么想呢？
 
 //2340. ORIGINAL [#FF00B050]: Horrified, and sad.
-bf2087f5-787a-4bd0-8a39-d0a35a253c6a = 
+bf2087f5-787a-4bd0-8a39-d0a35a253c6a = 惊恐，又悲伤。
 
 //2341. ORIGINAL [#FF00B050]: Sad we weren't told.
-b252da04-3041-44cd-b452-6ae1af0d3562 = 
+b252da04-3041-44cd-b452-6ae1af0d3562 = 为我们没有被告知而悲伤。
 
 //2342. ORIGINAL [#FF00B050]: Sad that this happened to good people.
-c6e669a1-b281-422f-b70c-1872fd89a799 = 
+c6e669a1-b281-422f-b70c-1872fd89a799 = 为发生在好人身上而悲伤。
 
 //2343. ORIGINAL [#FF00B050]: We should have been told this was happening.
-0e183722-e3d2-4ae7-9cc8-9b73fec5dd33 = 
+0e183722-e3d2-4ae7-9cc8-9b73fec5dd33 = 我们应该被告知发生了这种事。
 
 //2344. ORIGINAL [#FF00B050]: One fact remains: this Event was stopped in its tracks.
-edc18dcd-92b5-402e-952d-9ad5a802cc5a = 
+edc18dcd-92b5-402e-952d-9ad5a802cc5a = 一个事实是：这次事件已经被阻止了。
 
 //2345. ORIGINAL [#FF00B050]: You may not agree with the Army's decisions...
-dadbc3c9-c813-4ef9-ae74-4682c0b45670 = 
+dadbc3c9-c813-4ef9-ae74-4682c0b45670 = 你可能不认同军队的决定...
 
 //2346. ORIGINAL [#FF00B050]: ... but their actions speak for themselves.
-ab2c907e-ac53-4edb-a86a-070548d0cd28 = 
+ab2c907e-ac53-4edb-a86a-070548d0cd28 = ...但他们的行动说明了一切。
 
 //2347. ORIGINAL [#FFFFC000]: This is <bzzt>
-af60382e-bfa3-437f-b73a-421dbef38635 = 
+af60382e-bfa3-437f-b73a-421dbef38635 = 我是 <bzzt>
 
 //2348. ORIGINAL [#FFFFC000]: <bzzt> military flights <fzzt>
-ff6b17a4-8cfe-4282-87ab-5ec423262e6e = 
+ff6b17a4-8cfe-4282-87ab-5ec423262e6e = <bzzt> 军用航班 <fzzt>
 
 //2349. ORIGINAL [#FFFFC000]: The Knox Event is contained, but a truth has emerged.
-924d0a71-3eee-4e96-9edf-b5c03dcdcbe9 = 
+924d0a71-3eee-4e96-9edf-b5c03dcdcbe9 = 诺克斯事件已经得到控制，但一个真相已经出现了。
 
 //2350. ORIGINAL [#FFFFC000]: We're going straight over to Kirsty Cormick in Kentucky.
-d7dc9beb-8675-44c1-9a66-2273f05a83cf = 
+d7dc9beb-8675-44c1-9a66-2273f05a83cf = 我们直接把镜头给到在肯塔基州的克斯蒂·考密克。
 
 //2351. ORIGINAL [#FF8080FF]: I'm afraid we have disturbing news.
-ae447259-1d43-4e7e-b087-c7b2b39d2624 = 
+ae447259-1d43-4e7e-b087-c7b2b39d2624 = 恐怕我们有一个令人不安的消息。
 
 //2352. ORIGINAL [#FF8080FF]: I have verified reports of violence inside the Exclusion Zone.
-a41146d8-041b-4d47-98a8-a377e4c70781 = 
+a41146d8-041b-4d47-98a8-a377e4c70781 = 我已经核实了关于封锁区内暴力事件的报告。
 
 //2353. ORIGINAL [#FF8080FF]: Survivors released from a military camp INSIDE the zone have made it through...
-3966f961-ef3f-4763-b7fe-fa258e323eba = 
+3966f961-ef3f-4763-b7fe-fa258e323eba = 从封锁区*内*军营释放的幸存者已经通过...
 
 //2354. ORIGINAL [#FF8080FF]: ...the barriers behind me. Crossing the border several miles from here.
-213f0be0-ac45-43a6-85ef-9d8e280cd736 = 
+213f0be0-ac45-43a6-85ef-9d8e280cd736 = ...我身后的障碍物。正穿越离这里几英里的边界。
 
 //2355. ORIGINAL [#FF8080FF]: Their story is one of horror.
-efc6821d-078f-4282-bdcc-3889a70737d0 = 
+efc6821d-078f-4282-bdcc-3889a70737d0 = 他们的故事是一个恐怖故事。
 
 //2356. ORIGINAL [#FF8080FF]: The Knox Infection's final stage is one of violence.
-853b5319-c598-486b-8f34-26887723f025 = 
+853b5319-c598-486b-8f34-26887723f025 = 诺克斯传染的最后阶段是暴力。
 
 //2357. ORIGINAL [#FF8080FF]: Sufferers attack friends.
-9f2ce773-c089-4069-a34b-86422eb17e0a = 
+9f2ce773-c089-4069-a34b-86422eb17e0a = 感染者攻击朋友。
 
 //2358. ORIGINAL [#FF8080FF]: Sufferers attack family.
-6b4d650d-c01d-4f4b-aa4c-66c1b9de1f61 = 
+6b4d650d-c01d-4f4b-aa4c-66c1b9de1f61 = 感染者攻击家人。
 
 //2359. ORIGINAL [#FF8080FF]: These recently released survivors aside: the infection rate is total.
-ce37aa68-6b68-4254-abdd-e28cbf246259 = 
+ce37aa68-6b68-4254-abdd-e28cbf246259 = 除去这些刚刚被释放的幸存者外：感染率为百分百。
 
 //2360. ORIGINAL [#FF8080FF]: I just recorded an interview with Pauline Simpson who has come from inside the zone.
 a4c67c26-b528-4d89-adc1-2366440aecad = 
