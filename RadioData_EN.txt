@@ -902,10 +902,10 @@ d72114d7-28db-4fd7-a982-15eb32769be3 = 在事发地区以外，不存在“疾�
 ad799f7c-f80c-4f45-a187-fcde1d67ed1a = ...学校大厅，拖车和军用帐篷里。
 
 //2057. ORIGINAL [#FFFFC000]: It's more than two days now since these people heard the voices...
-3385dc2f-6ce8-4563-99e8-b2792be3ca4e = 
+3385dc2f-6ce8-4563-99e8-b2792be3ca4e = 两天多来，这些人听到了有关...
 
 //2058. ORIGINAL [#FFFFC000]: ... of many of their families, loved ones and friends.
-7e3fed16-bc0e-4450-9957-078b508b0f85 = 
+7e3fed16-bc0e-4450-9957-078b508b0f85 = ...他们的家人、亲人和朋友的消息。
 
 //2059. ORIGINAL [#FF00B0F0]: They could be dead in there!
 465c503a-bcea-4edc-b2c2-fc6b2e7d56ab = 他们可能已经死在那了！
@@ -914,37 +914,37 @@ ad799f7c-f80c-4f45-a187-fcde1d67ed1a = ...学校大厅，拖车和军用帐篷�
 43fc15fe-cf4e-49cf-88a7-9d03c370faf7 = 当然，电力和自来水仍在供应。
 
 //2061. ORIGINAL [#FF00B0F0]: But what if they're too sick to eat?
-b9b296fa-47dd-42f3-ab3b-5cd31a844daf = 
+b9b296fa-47dd-42f3-ab3b-5cd31a844daf = 但如果他们病得吃不下饭呢？
 
 //2062. ORIGINAL [#FF00B0F0]: I got told they've got scientists in there talking to them.
-0daf6a05-9ded-43fa-856a-ee10053bb10b = 
+0daf6a05-9ded-43fa-856a-ee10053bb10b = 我被告知有科学家在那里和他们交谈。
 
 //2063. ORIGINAL [#FF00B0F0]: The guy said 'there's no way they're going hungry in there'.
-86f8dea8-5ce1-4ff2-9b5d-4b065edb7392 = 
+86f8dea8-5ce1-4ff2-9b5d-4b065edb7392 = 那人说:“他们不可能在里面挨饿。”
 
 //2064. ORIGINAL [#FF00B0F0]: But all we have is the word of these... dudes with guns!
-ca525ef8-2ddb-40e5-bbb9-1149075aa8b0 = 
+ca525ef8-2ddb-40e5-bbb9-1149075aa8b0 = 但我们无话可说...那些人带着枪！
 
 //2065. ORIGINAL [#FF00B0F0]: Where the hell's the President in all this?
-1c88bc59-edb4-4707-ad1e-5efa02066f67 = 
+1c88bc59-edb4-4707-ad1e-5efa02066f67 = 总统到底在哪里？
 
 //2066. ORIGINAL [#FF00B0F0]: He should be down here with me! With me in this damn tent!
-be7f05e5-a06f-43f8-970c-cf5f420bb8d2 = 
+be7f05e5-a06f-43f8-970c-cf5f420bb8d2 = 他应该在这里！ 和我一起在这个该死的帐篷里！
 
 //2067. ORIGINAL [#FFFFC000]: It's a sad state of affairs down there.
-36e526a9-ac00-4185-80c8-87ae3d85f930 = 
+36e526a9-ac00-4185-80c8-87ae3d85f930 = 那里的情况很糟糕。
 
 //2068. ORIGINAL [#FFFFC000]: Back after these messages...
-37ff9d6d-ebda-4022-9323-c521420c87eb = 
+37ff9d6d-ebda-4022-9323-c521420c87eb = 以上是发回的报道...
 
 //2069. ORIGINAL [#FFFFC000]: Good morning. This is Triple-N.
-aa0103b8-7cd9-4d8e-a365-0952d28b78a8 = 
+aa0103b8-7cd9-4d8e-a365-0952d28b78a8 = 早上好。这里是Triple-N。
 
 //2070. ORIGINAL [#FFFFC000]: The Knox Event Exclusion Zone is STILL in place.
-573c0a34-f517-4a4b-93c0-e776ce8e29b4 = 
+573c0a34-f517-4a4b-93c0-e776ce8e29b4 = 诺克斯事件封锁区仍然存在。
 
 //2071. ORIGINAL [#FFFFC000]: Officials remain silent on the impact of an outbreak...
-cc544969-e220-4701-b990-c0561283141c = 
+cc544969-e220-4701-b990-c0561283141c = 官员们对疫情的影响保持沉默。
 
 //2072. ORIGINAL [#FFFFC000]: ... described as 'non-lethal' with symptoms of 'panic' and 'confusion'.
 d456b740-36af-498d-9b14-de1fc0bae491 = 
@@ -953,745 +953,745 @@ d456b740-36af-498d-9b14-de1fc0bae491 =
 00ba1750-6bad-4cc0-a9e1-c089ba73a6d8 = 
 
 //2074. ORIGINAL [#FF8080FF]: A strange scene here south of Louisville.
-c9614a8b-88a6-4842-bdcd-eb2ee9666167 = 
+c9614a8b-88a6-4842-bdcd-eb2ee9666167 = 路易斯维尔以南的奇怪场景。
 
 //2075. ORIGINAL [#FF8080FF]: Roads blocked by military vehicles.
-db9cc65e-d460-4752-bbb2-e9e2c23c91bb = 
+db9cc65e-d460-4752-bbb2-e9e2c23c91bb = 道路被军车封锁。
 
 //2076. ORIGINAL [#FF8080FF]: Barriers and fences once intended for use overseas...
-4928be3f-7ce0-41f0-a2ec-e8a9d182cb20 = 
+4928be3f-7ce0-41f0-a2ec-e8a9d182cb20 = 关卡和栅栏被部署在...
 
 //2077. ORIGINAL [#FF8080FF]: ...deployed around a no-go area deep inside Kentucky.
-c4552667-1067-41fa-b304-1e2f8b293f4c = 
+c4552667-1067-41fa-b304-1e2f8b293f4c = ...肯塔基州内部的禁行区外。
 
 //2078. ORIGINAL [#FF8080FF]: And dead in the center?
-acdca990-bf76-4030-b72f-118b45161bf4 = 
+acdca990-bf76-4030-b72f-118b45161bf4 = 而中部的死者们呢？
 
 //2079. ORIGINAL [#FF8080FF]: The small towns of Muldraugh and West Point...
-0e580467-9b43-4a74-9ce9-558869870f15 = 
+0e580467-9b43-4a74-9ce9-558869870f15 = 在马尔德劳镇和西点...
 
 //2080. ORIGINAL [#FF8080FF]: ... and the bases and training facilities of the Army itself.
-9c63bae1-98e6-4839-8d07-fc679ab2888e = 
+9c63bae1-98e6-4839-8d07-fc679ab2888e = ...以及军队自身的基地和训练设施。
 
 //2081. ORIGINAL [#FF8080FF]: I'm here in a camp of displaced families, and they're angry.
-4848d27d-7270-4192-b1cc-878e395d0edd = 
+4848d27d-7270-4192-b1cc-878e395d0edd = 我正在一个住满了流离失所的家庭的营地，他们非常愤怒。
 
 //2082. ORIGINAL [#FF00B050]: We just want to go home. That's all!
-a5b4eee6-6977-4cb2-b213-5187ad3192f8 = 
+a5b4eee6-6977-4cb2-b213-5187ad3192f8 = 我们只想回家。 就这样！
 
 //2083. ORIGINAL [#FF00B050]: Why can't we talk to them?
-6daf35c1-c85a-4eba-8aa1-cbe712af65cc = 
+6daf35c1-c85a-4eba-8aa1-cbe712af65cc = 为什么我们不能和他们谈谈？
 
 //2084. ORIGINAL [Red]: What's the worst thing they could do?
-ea8c6b0a-6278-410e-a68f-481238611e03 = 
+ea8c6b0a-6278-410e-a68f-481238611e03 = 他们做的最糟糕的事是什么？
 
 //2085. ORIGINAL [Red]: Cut off the phone lines!
-497fb06b-fe64-4e02-8bdc-7001b1af5e7a = 
+497fb06b-fe64-4e02-8bdc-7001b1af5e7a = 是切断电话线！
 
 //2086. ORIGINAL [Red]: Do they want us to panic?
-5f23a203-d90e-4e81-84bd-a85259e20bc3 = 
+5f23a203-d90e-4e81-84bd-a85259e20bc3 = 他们想让我们恐慌吗？
 
 //2087. ORIGINAL [#FF00B0F0]: Just let me talk to my son!
-53840219-fa1f-41bb-b628-f0d38eaca19e = 
+53840219-fa1f-41bb-b628-f0d38eaca19e = 让我和我儿子聊聊天！
 
 //2088. ORIGINAL [#FF8080FF]: Military officials have told us to expect a full statement this afternoon.
-5974bb6b-1e40-454d-bb3a-ebed9fcff846 = 
+5974bb6b-1e40-454d-bb3a-ebed9fcff846 = 军方官员告诉我们，今天下午将会发表一份完整声明。
 
 //2089. ORIGINAL [#FF8080FF]: Until then this is Kirsty Cormick for Triple-N on the Knox Event line.
-1c8370d0-dc0d-4072-843e-f824e02a2730 = 
+1c8370d0-dc0d-4072-843e-f824e02a2730 = 就到这里，我是Triple-N诺克斯事件专线的记者克斯蒂·考密克。
 
 //2090. ORIGINAL [#FFFFC000]: Thank you Kirsty.
-69c2ae1b-0613-48cb-82bd-e8a36ef1ff91 = 
+69c2ae1b-0613-48cb-82bd-e8a36ef1ff91 = 谢谢克斯蒂。
 
 //2091. ORIGINAL [#FFFFC000]: Now, amidst angry scenes in Washington and a storm of Republican protest...
-8ebf2592-1fef-4b36-9992-22aedd01ca97 = 
+8ebf2592-1fef-4b36-9992-22aedd01ca97 = 现在，愤怒的场面出现在华盛顿一场对共和党的抗议中...
 
 //2092. ORIGINAL [#FFFFC000]: We are expecting word from the President, following crisis meetings...
-a5679465-5285-49b7-9005-2d0ad333fb5b = 
+a5679465-5285-49b7-9005-2d0ad333fb5b = 白宫疾病控制中心的专家召开危机会议后...
 
 //2093. ORIGINAL [#FFFFC000]: ...with experts from the Center for Disease Control at the White House.
-a6429887-3519-4b38-bfbb-7dd187efc6c6 = 
+a6429887-3519-4b38-bfbb-7dd187efc6c6 = ...我们正期待来自总统的消息。
 
 //2094. ORIGINAL [#FFFFC000]: More developments as they happen...
-d4daefa5-863b-4a32-ad61-e37b3362c34f = 
+d4daefa5-863b-4a32-ad61-e37b3362c34f = 关注事态发展...
 
 //2095. ORIGINAL [#FFFFC000]: ... on Triple-N.
-6c57198e-ef90-4584-8711-ffd4ab40dee5 = 
+6c57198e-ef90-4584-8711-ffd4ab40dee5 = ...请观看Triple-N.
 
 //2096. ORIGINAL [#FFFFC000]: We're here with some breaking news.
-3cc56cfe-e202-4a71-99a6-321cdfa3593c = 
+3cc56cfe-e202-4a71-99a6-321cdfa3593c = 我们现在播报一些重大新闻。
 
 //2097. ORIGINAL [#FFFFC000]: General McGrew has just finished speaking. Let's go over to the Knox Event Exclusion line.
-99f55f04-949d-4e89-8e86-c6d40de612d7 = 
+99f55f04-949d-4e89-8e86-c6d40de612d7 = 麦格鲁将军刚刚发表了讲话。让我们转向诺克斯事件封锁区专线。
 
 //2098. ORIGINAL [#FF8080FF]: Thank you Joan.
-a42dd600-7df9-4a08-8718-c143fcf323a9 = 
+a42dd600-7df9-4a08-8718-c143fcf323a9 = 谢谢琼。
 
 //2099. ORIGINAL [#FF8080FF]: General John McGrew has confirmed 'panic' and 'confusion' inside the Zone.
-2ad0ea47-6325-49d4-9e6e-1bd6cdb7e4fe = 
+2ad0ea47-6325-49d4-9e6e-1bd6cdb7e4fe = 约翰·麦格鲁将军已经证实，区域内存在“恐慌”和“混乱”。
 
 //2100. ORIGINAL [#FF8080FF]: With NO confirmation of the violent scenes some claim to have witnessed.
-a94d3b9b-d8a6-4811-aeff-6b35a04fa252 = 
+a94d3b9b-d8a6-4811-aeff-6b35a04fa252 = 一些人声称亲眼目睹的暴力场面 没-有- 得到证实。
 
 //2101. ORIGINAL [#FF8080FF]: And still no reasoning behind the communication blackout:
-a582c16f-4f8e-4769-bf4e-661dd7fd6f15 = 
+a582c16f-4f8e-4769-bf4e-661dd7fd6f15 = 而且仍没有交代通信中断的原因：
 
 //2102. ORIGINAL [#FF8080FF]: Are the General's responses enough for America?
-cac2dd4a-c6e9-4af9-8c65-ac3c4da373c4 = 
+cac2dd4a-c6e9-4af9-8c65-ac3c4da373c4 = 将军的回应对美国来说足够吗？
 
 //2103. ORIGINAL [#FF8080FF]: Those forced to stay in Army issue tents around me...
-bcec9668-c89c-44c0-a4e3-f2d8d6bf2a9b = 
+bcec9668-c89c-44c0-a4e3-f2d8d6bf2a9b = 那些我周围被迫待在军方帐篷里的人...
 
 //2104. ORIGINAL [#FF8080FF]: ... and those evacuated to the North seem to be saying 'No'.
-432ee696-b4b7-4aa2-b4ce-4e29006f6e81 = 
+432ee696-b4b7-4aa2-b4ce-4e29006f6e81 = 和那些被疏散到北方的人似乎都在说“不”。
 
 //2105. ORIGINAL [#FFFFC000]: Kirsty Cormick there on the Knox Event boundary.
-c13549a1-f264-48da-982e-54e5e800fea7 = 
+c13549a1-f264-48da-982e-54e5e800fea7 = 克斯蒂·考密克正在诺克斯事件的边界上。
 
 //2106. ORIGINAL [#FFFFC000]: We'll be keeping you updated throughout the day...
-ba0cbdd3-31ba-4140-a624-bc153150d1f3 = 
+ba0cbdd3-31ba-4140-a624-bc153150d1f3 = 我们将随时为您提供最新消息...
 
 //2107. ORIGINAL [#FF00B050]: I've met General John McGrew - many times.
-704124b3-c634-4b25-8a38-caba5876b3a6 = 
+704124b3-c634-4b25-8a38-caba5876b3a6 = 我见过约翰·麦格鲁将军 —— 很多次。
 
 //2108. ORIGINAL [#FF00B050]: He is a fine man.
-73338102-fbf4-43cf-a1c6-836d1800b3b7 = 
+73338102-fbf4-43cf-a1c6-836d1800b3b7 = 他是个好人。
 
 //2109. ORIGINAL [#FF00B050]: When he says there have been no fatalities from the infection - he means it.
-33786399-8c7e-4cfb-bf56-79fa789c41b9 = 
+33786399-8c7e-4cfb-bf56-79fa789c41b9 = 当他说没有人因感染而死亡时 —— 他是认真的。
 
 //2110. ORIGINAL [#FF00B050]: That man's career has earned enough medals to block the noon-day sun.
-a47d146d-27a7-481f-8f28-219080de5107 = 
+a47d146d-27a7-481f-8f28-219080de5107 = 他在职业生涯中获得的奖章足以抵挡正午的阳光。
 
 //2111. ORIGINAL [#FF00B050]: He's no liar.
-bec351a4-ccc4-41a1-906d-9544910cc583 = 
+bec351a4-ccc4-41a1-906d-9544910cc583 = 他从不撒谎。
 
 //2112. ORIGINAL [#FF00B050]: This precautionary exclusion zone is there to protect us.
-69b7c83e-56c4-48c4-a07f-740ebe71fbb5 = 
+69b7c83e-56c4-48c4-a07f-740ebe71fbb5 = 这个封锁区是用来保护我们的。
 
 //2113. ORIGINAL [#FF00B050]: I'm sorry for the people inside. Truly I am.
-2e652988-253e-487a-b0ae-63c647ff3100 = 
+2e652988-253e-487a-b0ae-63c647ff3100 = 我为里面的人感到难过。真的。
 
 //2114. ORIGINAL [#FF00B050]: Running a fever, feeling confused, being trapped...
-7110295d-dda6-405c-b130-3e098a173344 = 
+7110295d-dda6-405c-b130-3e098a173344 = 发烧，迷茫，被困...
 
 //2115. ORIGINAL [#FF00B050]: But this is clearly in the nation's interest.
-3a32eb81-2a2d-4219-b9f8-81ef34d3e24a = 
+3a32eb81-2a2d-4219-b9f8-81ef34d3e24a = 但这显然符合国家利益。
 
 //2116. ORIGINAL [#FF00B050]: The greater good.
-2522e486-dd02-4088-a5a0-a9eae48cc17a = 
+2522e486-dd02-4088-a5a0-a9eae48cc17a = 为了更大的利益。
 
 //2117. ORIGINAL [#FF00B050]: I've heard a lot of people asking - 'Why can't we know?'
-2a7e2db6-c1d7-48a4-827f-bdbea124fdf2 = 
+2a7e2db6-c1d7-48a4-827f-bdbea124fdf2 = 我听到很多人问 —— “为什么我们不知道？”
 
 //2118. ORIGINAL [#FF00B050]: Why can't the Government just say: 'Here's the problem'?
-b629054e-8291-40a0-96df-e24d51cd114b = 
+b629054e-8291-40a0-96df-e24d51cd114b = 为什么政府不能直接说:‘这里有问题’呢？
 
 //2119. ORIGINAL [#FF00B050]: There's bravery in silence, folks.
-7cf44fc3-2015-4e77-b098-7ab0dcdb35bd = 
+7cf44fc3-2015-4e77-b098-7ab0dcdb35bd = 沉默是勇敢的表现，各位。
 
 //2120. ORIGINAL [#FF00B050]: They're busy looking in on this... let's call it a 'Knox Event'
-2b83ef40-a51e-4c58-95a4-99ace4603865 = 
+2b83ef40-a51e-4c58-95a4-99ace4603865 = 他们正忙着处理这事...我们称之为“诺克斯事件”
 
 //2121. ORIGINAL [#FF00B050]: They don't have time to look back out.
-a3a057ab-5f2f-43f5-b47d-6411ff6e63b4 = 
+a3a057ab-5f2f-43f5-b47d-6411ff6e63b4 = 他们没有时间回头看。
 
 //2122. ORIGINAL [#FF00B050]: They're relying on us to keep calm and have faith.
-9f5d0905-c082-4980-b5ec-c45bf427286a = 
+9f5d0905-c082-4980-b5ec-c45bf427286a = 他们希望我们保持镇定和信心。
 
 //2123. ORIGINAL [#FF00B050]: I do have faith, and as an American...
-f3f85f0b-5faf-4a45-8f36-8f6bae34950d = 
+f3f85f0b-5faf-4a45-8f36-8f6bae34950d = 作为一个美国人，我有信仰...
 
 //2124. ORIGINAL [#FF00B050]: ... so should you.
-a0b52ab3-a278-4904-bd09-2d6ee260e206 = 
+a0b52ab3-a278-4904-bd09-2d6ee260e206 = ...你也一样。
 
 //2125. ORIGINAL [#FF00B050]: I've been Judge Matt Hass...
-99fa3a2e-87fc-4870-b328-2341eca7a281 = 
+99fa3a2e-87fc-4870-b328-2341eca7a281 = 我是贾奇·马特哈斯...
 
 //2126. ORIGINAL [#FFFFC000]: That was Judge Matt Hass. Good evening, you're on Triple N.
-ad0808fe-f6fa-47c8-ba9a-a12fd7e7a9dc = 
+ad0808fe-f6fa-47c8-ba9a-a12fd7e7a9dc = 这是贾奇·马特哈斯发来的报道。晚上好，您正在观看的是Triple-N。
 
 //2127. ORIGINAL [#FFFFC000]: While we've been on air: a statement from the White House.
-15b338f5-e47e-4798-9e67-16041cde6e16 = 
+15b338f5-e47e-4798-9e67-16041cde6e16 = 我们正在直播：白宫发表的声明。
 
 //2128. ORIGINAL [#FFFFC000]: The President has claimed he is 'understandably distressed' by the Knox Event.
-5f6f8964-4880-421c-bdd5-80ca748188a4 = 
+5f6f8964-4880-421c-bdd5-80ca748188a4 = 总统声称，他对诺克斯事件感到“痛心”，这是可以理解的。
 
 //2129. ORIGINAL [Red]: More as it happens throughout the night...
-cc43cfe7-bf78-4109-a525-1fdadfa1ccd2 = 
+cc43cfe7-bf78-4109-a525-1fdadfa1ccd2 = 整夜都在发生...
 
 //2130. ORIGINAL [#FFFFC000]: As the Knox Event enters its fifth day. Anger is at boiling point.
-800d60d5-c583-4bc2-8668-1d22c8758007 = 
+800d60d5-c583-4bc2-8668-1d22c8758007 = 诺克斯事件进入到第五天。愤怒已到了沸点。
 
 //2131. ORIGINAL [#FFFFC000]: America demands answers. Reporting from Washington: Daniel Sinclair.
-5a6b9dd7-16da-4bf2-8f37-184127d02ff0 = 
+5a6b9dd7-16da-4bf2-8f37-184127d02ff0 = 美国需要一个答案。丹尼尔·辛克莱 华盛顿报道。
 
 //2132. ORIGINAL [#FF00B050]: Republicans in the building behind me are in uproar today.
-2eed5720-62a2-4f5e-9078-b901b65e00b2 = 
+2eed5720-62a2-4f5e-9078-b901b65e00b2 = 今天，我身后大楼里的共和党人一片哗然。
 
 //2133. ORIGINAL [#FF00B050]: Their problem? The 'do nothing' agenda of the President.
-bf45e0e8-ba0b-4315-9b61-f2eb96d38e02 = 
+bf45e0e8-ba0b-4315-9b61-f2eb96d38e02 = 他们的问题？ 总统的“无为而治”议程。
 
 //2134. ORIGINAL [#FF00B050]: To many, the President's address yesterday simply was not enough:
-69307737-d4f3-4f7d-b97e-5e80a808f8fd = 
+69307737-d4f3-4f7d-b97e-5e80a808f8fd = 对许多人来说，总统昨天的讲话根本不够：
 
 //2135. ORIGINAL [#FF00B050]: Critics of the administration point to at best an inability to share information...
-13aa588a-d765-44e4-a72a-98c2b39e5cea = 
+13aa588a-d765-44e4-a72a-98c2b39e5cea = 政府批评者指出，最好的情况是政府无法分享信息...
 
 //2136. ORIGINAL [#FF00B050]: ... and at worst a reluctance.
-6e8d1f2d-705a-4581-a447-fc405206810a = 
+6e8d1f2d-705a-4581-a447-fc405206810a = ...最坏的情况是政府不情愿公布信息。
 
 //2137. ORIGINAL [#FFFFC000]: Thank you Daniel.
-8299f6eb-509c-422e-8624-39f2d5e74017 = 
+8299f6eb-509c-422e-8624-39f2d5e74017 = 谢谢你，丹尼尔。
 
 //2138. ORIGINAL [#FFFFC000]: Now, Triple-N has received a statement overnight from the State Department.
-118756bf-db4f-4303-bd07-10867849eb7f = 
+118756bf-db4f-4303-bd07-10867849eb7f = 现在，Triple-N收到了夜间国务院的声明。
 
 //2139. ORIGINAL [#FFFFC000]: General John McGrew have apologised for a 'lack of clarity'.
-d62cf80d-9370-47c4-a102-253175730071 = 
+d62cf80d-9370-47c4-a102-253175730071 = 约翰·麦格鲁将军已经为“缺乏澄清”道歉。
 
 //2140. ORIGINAL [#FFFFC000]: He underlines that the unspecified outbreak IS contained.
-581fef8d-820d-49c1-980b-2b5e3c198591 = 
+581fef8d-820d-49c1-980b-2b5e3c198591 = 他强调，不明疫情已*得到*控制。
 
 //2141. ORIGINAL [#FFFFC000]: Military Health officials state that fatalities within the Zone are...
-83f062ce-80ad-4fd2-9c21-36acebe4c6ea = 
+83f062ce-80ad-4fd2-9c21-36acebe4c6ea = 军方卫生官员表示，目前*不*担心...
 
 //2142. ORIGINAL [#FFFFC000]: ...NOT currently a concern.
-97dc4e01-f4a1-4863-be93-a6af3af576bd = 
+97dc4e01-f4a1-4863-be93-a6af3af576bd = ...区域内的死亡。
 
 //2143. ORIGINAL [#FFFFC000]: Later today we've been promised a full and frank conversation...
-8ed28337-cbcd-484d-b0f6-28c986967fa1 = 
+8ed28337-cbcd-484d-b0f6-28c986967fa1 = 今天晚些时候，我们被保证，可以与在边界工作的一位科学家...
 
 //2144. ORIGINAL [#FFFFC000]: ...talking to one of the scientists operating on the boundary.
-f2964b0a-08b5-4bb7-9489-f3a00e6e1414 = 
+f2964b0a-08b5-4bb7-9489-f3a00e6e1414 = ...进行全面而坦诚的对话。
 
 //2145. ORIGINAL [#FFFFC000]: Flu-like'. 'Panic'. 'Confusion'.
-0cad3eab-834a-415d-bd64-29c090340cd2 = 
+0cad3eab-834a-415d-bd64-29c090340cd2 = 流感样疾病。“恐慌”。“混乱”。
 
 //2146. ORIGINAL [#FFFFC000]: An unknown communicable illness that has cut through Kentucky communities...
-9580fbdf-bbaf-485a-bd20-d40b12f74ef3 = 
+9580fbdf-bbaf-485a-bd20-d40b12f74ef3 = 一种未知的传染病在肯塔基州各个社区蔓延...
 
 //2147. ORIGINAL [#FFFFC000]: ...forcing evacuations, and the creation of a huge exclusion zone.
-b06bb004-3f46-450e-87cd-c0d95de2195b = 
+b06bb004-3f46-450e-87cd-c0d95de2195b = ...他们强迫居民疏散，并设立了一个巨大的封锁区。
 
 //2148. ORIGINAL [#FFFFC000]: Yet STILL no concrete word on what the Knox Event is, or how it spreads.
-dac0a515-12bd-4a34-afc4-aa7232a837aa = 
+dac0a515-12bd-4a34-afc4-aa7232a837aa = 然而，关于诺克斯事件是什么，以及传播方式，*至今*还没有具体说法。
 
 //2149. ORIGINAL [#FFFFC000]: Worse? Revelations from a Dr Jack Galbraithe - a former scientist with the CDC.
-61116350-6886-4e13-bd54-a83985ce2836 = 
+61116350-6886-4e13-bd54-a83985ce2836 = 更糟的事？来自杰克·加尔布雷思博士的爆料 —— 前美国疾病控制与预防中心的科学家。
 
 //2150. ORIGINAL [#FFFFC000]: He's reported as saying: 'America is not ready for this'.
-aa7aa9b6-a2c1-4f05-91b8-ec92e85c9c28 = 
+aa7aa9b6-a2c1-4f05-91b8-ec92e85c9c28 = 据报道，他说:“美国还没有准备好对付这件事。”
 
 //2151. ORIGINAL [#FFFFC000]: 'We haven't been ready for a long time.'
-b1102d69-761a-4f1d-a4e8-a7559fed85e6 = 
+b1102d69-761a-4f1d-a4e8-a7559fed85e6 = “我们已经很长时间没有准备了。”
 
 //2152. ORIGINAL [#FFFFC000]: How does that sound to you on the ground at the Event boundary, Kirsty Cormick?
-38e536b5-d420-401d-a882-adfd677f9e83 = 
+38e536b5-d420-401d-a882-adfd677f9e83 = 边界现场看起来怎么样，克斯蒂·考密克？
 
 //2153. ORIGINAL [#FF8080FF]: Well Joan, it's exactly that sort of rumor that's not helping.
-a6698a96-263a-49d6-ae28-b1ad260ce285 = 
+a6698a96-263a-49d6-ae28-b1ad260ce285 = 琼，好吧，这种谣言无济于事。
 
 //2154. ORIGINAL [#FF8080FF]: People just don't know what to do, and the military don't know what to do with them.
-8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = 
+8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = 人们不知道该怎么做，而军方也不知道该怎么处置他们。
 
 //2155. ORIGINAL [#FF8080FF]: Some have been taken to Louisville - but most?
-1d04b055-1894-4815-87b6-2c157d589392 = 
+1d04b055-1894-4815-87b6-2c157d589392 = 一些人被带到路易斯维尔 —— 但大多数人呢？
 
 //2156. ORIGINAL [#FF8080FF]: They want to stay - in tents, in local buildings. This is their home.
-5fa4b879-0315-4f17-bbb3-7d35aa3a509d = 
+5fa4b879-0315-4f17-bbb3-7d35aa3a509d = 他们想留下来 —— 在帐篷里，在当地建筑物中。这里是他们的家。
 
 //2157. ORIGINAL [#FF8080FF]: Or, at least as near to their homes as the Army will allow them.
-ba371734-10ba-4750-95bd-7d5db07418af = 
+ba371734-10ba-4750-95bd-7d5db07418af = 或者，至少在军队许可的范围内尽可能靠近他们的家。
 
 //2158. ORIGINAL [#FF8080FF]: And they're angry. Real angry.
-4a9501ff-23c1-424e-9a73-d7e3d91b6c32 = 
+4a9501ff-23c1-424e-9a73-d7e3d91b6c32 = 而且他们很生气。 十分生气。
 
 //2159. ORIGINAL [#FF00B050]: They're not tellin' us nothing!
-fec33769-7318-4c22-a704-6b255e391521 = 
+fec33769-7318-4c22-a704-6b255e391521 = 他们什么也没告诉我们！
 
 //2160. ORIGINAL [#FF00B050]: Every day like the last!
-d0b04dac-bb9c-4ae0-a4fb-435f91d603a3 = 
+d0b04dac-bb9c-4ae0-a4fb-435f91d603a3 = 每一天都像最后一天！
 
 //2161. ORIGINAL [#FF00B050]: I got a business in there, in West Point!
-76e5c032-1e1b-4de4-9eff-7e79e646f051 = 
+76e5c032-1e1b-4de4-9eff-7e79e646f051 = 我在那做生意，在西点！
 
 //2162. ORIGINAL [#FF00B050]: I got a home! A family!
-c9cd6cc6-7f14-4947-9c9f-d4ce24445099 = 
+c9cd6cc6-7f14-4947-9c9f-d4ce24445099 = 我成了家！有了一个家庭！
 
 //2163. ORIGINAL [#FF00B050]: I've got a dog too, and they took it for no reason at all!
-d4e16adf-ce2c-4d11-98e7-76b1188e6326 = 
+d4e16adf-ce2c-4d11-98e7-76b1188e6326 = 我也养了一条狗，但他们无缘无故把它带走了！
 
 //2164. ORIGINAL [#FF00B050]: We want answers!
-3ecb94cf-cbfa-4cfa-b9da-459aef865e1d = 
+3ecb94cf-cbfa-4cfa-b9da-459aef865e1d = 我们要答案！
 
 //2165. ORIGINAL [#FF8080FF]: This is Kirsty Cormick on the Knox Event line. Back to the studio.
-2434e2aa-cbeb-41d5-9ef9-1c56f289c5d2 = 
+2434e2aa-cbeb-41d5-9ef9-1c56f289c5d2 = 这是科斯蒂·考密克在诺克斯事件专线的报道。让我们回到演播室。
 
 //2166. ORIGINAL [#FFFFC000]: Now, coming up - the scientist that says 'it IS contained'...
-35477a99-1fe7-4a62-8b0a-2cc50cd6375a = 
+35477a99-1fe7-4a62-8b0a-2cc50cd6375a = 现在，接下来 —— 科学家说"疫情*已*被控制"...
 
 //2167. ORIGINAL [#FFFFC000]: This is Triple-N, here with Professor John Ramirez.
-06fe18a6-beaa-40d6-aad7-1f6d2b2dab51 = 
+06fe18a6-beaa-40d6-aad7-1f6d2b2dab51 = 这里是Triple-N，这位是John Ramirez教授。
 
 //2168. ORIGINAL [#FFFFC000]: What's going on Professor?
-a29f8ec0-5165-4338-90fe-fa2737c24239 = 
+a29f8ec0-5165-4338-90fe-fa2737c24239 = 教授，发生了什么事？
 
 //2169. ORIGINAL [#FFFFC000]: Can you describe the illness that's spreading in there?
-486bd77e-7960-4484-95d5-a09c7831bf31 = 
+486bd77e-7960-4484-95d5-a09c7831bf31 = 你能描述一下那里正在传播的疾病吗？
 
 //2170. ORIGINAL [Red]: I'm sorry, but that's all classified.
-b3cfa702-d9eb-4b0f-9b49-54a82d94998b = 
+b3cfa702-d9eb-4b0f-9b49-54a82d94998b = 很抱歉，这些都是机密。
 
 //2171. ORIGINAL [Red]: I can confirm, though, that it's a fever. And initial symptoms can turn to panic and confusion.
-5f8597d1-8ddd-410b-bc4b-e1dac8d73401 = 
+5f8597d1-8ddd-410b-bc4b-e1dac8d73401 = 但我可以确认，这是发烧。 而最初的症状可能会引起恐慌和混乱。
 
 //2172. ORIGINAL [Red]: We have experts on-site.
-a38bcce3-4b30-4e31-bf06-9b25167bb69c = 
+a38bcce3-4b30-4e31-bf06-9b25167bb69c = 我们有专家在场。
 
 //2173. ORIGINAL [#FFFFC000]: And what of the rumors of violence inside the Exclusion Zone?
-6284c735-b829-4677-93c0-2259bdf715b2 = 
+6284c735-b829-4677-93c0-2259bdf715b2 = 封锁区内的暴力事件传闻又如何呢？
 
 //2174. ORIGINAL [Red]: We've got the spread of the illness contained...
-608fc334-0a99-4dbf-95f8-57c6d28a9602 = 
+608fc334-0a99-4dbf-95f8-57c6d28a9602 = 我们已经控制了疾病的传播...
 
 //2175. ORIGINAL [Red]: ...and the best minds we've got working on it.
-12eaeae0-8f5f-4799-a972-8bdf8cc3f692 = 
+12eaeae0-8f5f-4799-a972-8bdf8cc3f692 = ...我们最好的人才都在努力。
 
 //2176. ORIGINAL [Red]: Right now we have NO reason to believe folks won't recover.
-1d62a391-74fc-463f-884c-ab297f14b132 = 
+1d62a391-74fc-463f-884c-ab297f14b132 = 目前，我们*没有*理由相信人们不会康复。
 
 //2177. ORIGINAL [Red]: The way this started was highly contagious.
-ec76df47-36e3-4312-a406-09a1455e12f8 = 
+ec76df47-36e3-4312-a406-09a1455e12f8 = 它刚开始具有高度传染性。
 
 //2178. ORIGINAL [Red]: And that's why we, quickly and efficiently, locked the place down.
-c1d020d2-1053-4733-a579-9809449fe241 = 
+c1d020d2-1053-4733-a579-9809449fe241 = 这就是为什么我们迅速而有效地封锁了这个地方。
 
 //2179. ORIGINAL [#FFFFC000]: During the Vietnam War there was a lot of chemical testing conducted in this area.
-6cb5a2ec-1ccf-47ba-9cc8-982ea672692e = 
+6cb5a2ec-1ccf-47ba-9cc8-982ea672692e = 在越南战争期间，这个地区进行了大量的化学测试。
 
 //2180. ORIGINAL [#FFFFC000]: Is there a link?
-79369f9c-69f1-4098-a8c7-f5047777ad70 = 
+79369f9c-69f1-4098-a8c7-f5047777ad70 = 两者之间有联系吗？
 
 //2181. ORIGINAL [Red]: We don't think so, no ma'am.
-5ce788f1-dc67-49c7-adf3-4decb85d5c95 = 
+5ce788f1-dc67-49c7-adf3-4decb85d5c95 = 我们不这么认为，不，女士。
 
 //2182. ORIGINAL [#FFFFC000]: We're going straight over to Washington now, and Daniel Sinclair.
-24fbfb19-e7a0-4f61-8f13-0d2166d1f5cb = 
+24fbfb19-e7a0-4f61-8f13-0d2166d1f5cb = 我们现在将镜头转向华盛顿，丹尼尔·辛克莱。
 
 //2183. ORIGINAL [#FFFFC000]: Daniel - can you hear me?
-3caa4f11-a6e2-4fd4-9ec1-acadcc701ca5 = 
+3caa4f11-a6e2-4fd4-9ec1-acadcc701ca5 = 丹尼尔 —— 能听到吗？ 
 
 //2184. ORIGINAL [#FF00B050]: I can. Yes.
-fef0a2dd-d37e-46db-ad1f-6b566862b096 = 
+fef0a2dd-d37e-46db-ad1f-6b566862b096 = 我可以。 是的。
 
 //2185. ORIGINAL [#FF00B050]: As you can see in the scenes behind me...
-6ce3301e-cfd6-4e42-9441-f8e84b54c723 = 
+6ce3301e-cfd6-4e42-9441-f8e84b54c723 = 你可以从我身后的画面看到...
 
 //2186. ORIGINAL [#FF00B050]: ... there is a huge number of protesters here today.
-9f70ea82-5ca5-45ba-a1d2-264a32ee55f2 = 
+9f70ea82-5ca5-45ba-a1d2-264a32ee55f2 = ...今天这里有很多抗议者。
 
 //2187. ORIGINAL [#FF00B050]: All angry and all wearing surgical masks: partly from solidarity...
-0519e40d-d10b-4d0f-a881-21d3c4c3a774 = 
+0519e40d-d10b-4d0f-a881-21d3c4c3a774 = 所有人都很愤怒，而且都戴着外科口罩:部分是出于团结...
 
 //2188. ORIGINAL [#FF00B050]: ... and perhaps from fear.
-1caf8b35-6def-448a-880e-73b7bd2b23cd = 
+1caf8b35-6def-448a-880e-73b7bd2b23cd = ...更可能出于恐惧。
 
 //2189. ORIGINAL [#FFFFC000]: We've heard talk of fighting, Daniel.
-7fab8e34-081e-4b9f-a134-e091761b95fd = 
+7fab8e34-081e-4b9f-a134-e091761b95fd = 我们听说发生了打斗，丹尼尔。
 
 //2190. ORIGINAL [#FF00B050]: Yes, there have been strong words - and unwise actions.
-dca5cb60-eb87-4d29-bf38-75b07108dff6 = 
+dca5cb60-eb87-4d29-bf38-75b07108dff6 = 是的，有些人言辞激烈，也出现了不明智的行动。
 
 //2191. ORIGINAL [#FF00B050]: Localized fighting, swiftly dealt with by police officers.
-07f70824-b03a-411f-8433-6bc9a749f9f4 = 
+07f70824-b03a-411f-8433-6bc9a749f9f4 = 发生了局部冲突，由警察迅速处理。
 
 //2192. ORIGINAL [#FF00B050]: All quiet right now though, aside from the loud, angry chants.
-5f21c9c6-c5f2-468e-8502-7e84b825feaa = 
+5f21c9c6-c5f2-468e-8502-7e84b825feaa = 不过，除了大声、愤怒的呼喊外，现在一切都很安静。
 
 //2193. ORIGINAL [#FF00B050]: It's a crowd on a knife-edge.
-f96ca301-36e5-42bd-b5c0-3dd511983044 = 
+f96ca301-36e5-42bd-b5c0-3dd511983044 = 人群十分拥挤。
 
 //2194. ORIGINAL [#FF00B050]: JESUS!
-4c1af641-058a-4673-af5f-4c9be0fc39f6 = 
+4c1af641-058a-4673-af5f-4c9be0fc39f6 = 天哪!!
 
 //2195. ORIGINAL [#FFFFC000]: What, what's happening?
-c97cc617-499e-48e1-b6f9-771614b02692 = 
+c97cc617-499e-48e1-b6f9-771614b02692 = 什么，发生了什么？
 
 //2196. ORIGINAL [#FF00B050]: Someone just threw a firebomb. Someone in the crowd..
-530e28d0-66fd-4c14-8f28-5c3b8f4a18dc = 
+530e28d0-66fd-4c14-8f28-5c3b8f4a18dc = 有人扔了颗燃烧弹。人群中的某个人...
 
 //2197. ORIGINAL [#FFFFC000]: Errr. Stick with us everyone.
-8dcabe15-a867-4cb6-b967-4909be4297f5 = 
+8dcabe15-a867-4cb6-b967-4909be4297f5 = 呃。和我们在一起。
 
 //2198. ORIGINAL [#FFFFC000]: More as it happens on the developing story...
-cc4a46eb-bf75-4609-bb53-2421afbc5842 = 
+cc4a46eb-bf75-4609-bb53-2421afbc5842 = 更多正发生和发展中的故事...
 
 //2199. ORIGINAL [#FF00B050]: The more I think, the more I realise - we need to thank them.
-14007dfa-c04c-4c09-8196-abff2b40b2d0 = 
+14007dfa-c04c-4c09-8196-abff2b40b2d0 = 我想得越多，就越意识到 —— 我们需要感谢他们。
 
 //2200. ORIGINAL [#FF00B050]: We need to thank the US Army.
-ab662549-8ab8-4dd6-a523-fbd6806dd105 = 
+ab662549-8ab8-4dd6-a523-fbd6806dd105 = 我们需要感谢美国陆军。
 
 //2201. ORIGINAL [#FF00B050]: Whatever this is, it isn't fun. It could've spread.
-bbd2eb2e-c400-4c51-ad6f-97ea36ecb5be = 
+bbd2eb2e-c400-4c51-ad6f-97ea36ecb5be = 不管这是什么，并不有趣。它可能已经扩散。
 
 //2202. ORIGINAL [#FF00B050]: Right now, you could be sick.
-ff3b6d60-abb6-4b03-99a0-ed7baf6366bc = 
+ff3b6d60-abb6-4b03-99a0-ed7baf6366bc = 现在，您可能会生病。
 
 //2203. ORIGINAL [#FF00B050]: Your kids could be sick.
-eafb95d0-c842-4cdd-a5c1-64d98401a874 = 
+eafb95d0-c842-4cdd-a5c1-64d98401a874 = 你的孩子可能会生病。
 
 //2204. ORIGINAL [#FF00B050]: They were ready for their duty. They got involved.
-791dc9db-f0e1-4d4a-aa15-30e3f7d6b866 = 
+791dc9db-f0e1-4d4a-aa15-30e3f7d6b866 = 他们准备好履行职责。 他们介入其中。
 
 //2205. ORIGINAL [#FF00B050]: They rolled out from their bases, and they protected America.
-4f110315-7bfe-4a67-800d-e5365eb59b72 = 
+4f110315-7bfe-4a67-800d-e5365eb59b72 = 他们从基地出发，保卫美利坚。
 
 //2206. ORIGINAL [#FF00B050]: They did it fast, and they did it effectively.
-92b5842c-10a8-416e-b100-fd742519041d = 
+92b5842c-10a8-416e-b100-fd742519041d = 他们做得又快又有效。
 
 //2207. ORIGINAL [#FF00B050]: They did it in one of the most militarily senstive areas in America.
-ed794a35-aa43-4eb7-aebd-337ca84c1712 = 
+ed794a35-aa43-4eb7-aebd-337ca84c1712 = 他们在美国最具军事意义的地区之一做到了。
 
 //2208. ORIGINAL [#FF00B050]: God bless them.
-7c7a9934-ede4-4aa9-910e-dfc59ba65fb6 = 
+7c7a9934-ede4-4aa9-910e-dfc59ba65fb6 = 上帝保佑他们。
 
 //2209. ORIGINAL [#FF00B050]: There is an illness in there, and it is contained.
-607ed5d9-b5f3-49f8-8687-3325b24a3b25 = 
+607ed5d9-b5f3-49f8-8687-3325b24a3b25 = 那里有一种传染病，而且它被控制住了。
 
 //2210. ORIGINAL [#FF00B050]: Yes, a lot of people are hurting.
-65fcc93b-670f-4826-80c5-818dafd39529 = 
+65fcc93b-670f-4826-80c5-818dafd39529 = 是的，很多人受伤了。
 
 //2211. ORIGINAL [#FF00B050]: Yes, it's unfortunate that familes have been divided.
-79a09c8e-0872-4501-a4ee-8270595c6f68 = 
+79a09c8e-0872-4501-a4ee-8270595c6f68 = 是的，不幸的是家庭分裂了。
 
 //2212. ORIGINAL [#FF00B050]: People kept from their homes? That's never good.
-69ab15e6-5d71-42dc-b257-689a0d1cbdf9 = 
+69ab15e6-5d71-42dc-b257-689a0d1cbdf9 = 人们被拒之门外？ 那永远都不是好事。
 
 //2213. ORIGINAL [#FF00B050]: But this is swift, decisive action.
-5d4c327d-57ea-498b-a949-da4ff4f8c066 = 
+5d4c327d-57ea-498b-a949-da4ff4f8c066 = 但这是次迅速而果断的行动。
 
 //2214. ORIGINAL [#FF00B050]: A threat is being dealt with.
-9854f45b-9c31-4a78-9859-a4d19686429c = 
+9854f45b-9c31-4a78-9859-a4d19686429c = 一个威胁正在被处理。
 
 //2215. ORIGINAL [#FF00B050]: That illness in the Exclusion Zone? It's trapped.
-89e7d3aa-706c-4362-938f-f04ca730cff6 = 
+89e7d3aa-706c-4362-938f-f04ca730cff6 = 封锁区内的疾病？它无路可逃了。
 
 //2216. ORIGINAL [#FF00B050]: The Army is biding its time. Making sure we stay safe.
-3433cccb-5d67-467b-89f2-bcb69677b093 = 
+3433cccb-5d67-467b-89f2-bcb69677b093 = 军队在等待时机。确保我们的安全。
 
 //2217. ORIGINAL [#FF00B050]: Have faith America.
-01ca6b0b-a5c5-41fb-a688-5f803c2ffc0a = 
+01ca6b0b-a5c5-41fb-a688-5f803c2ffc0a = 相信美利坚。
 
 //2218. ORIGINAL [#FF00B050]: Faith will let us grow.
-5a9f555d-d684-4b95-a0f5-0cda4d1d76e2 = 
+5a9f555d-d684-4b95-a0f5-0cda4d1d76e2 = 信仰让我们成长。
 
 //2219. ORIGINAL [#FF00B050]: Y'know, I understand the pain.
-5e08a424-4830-4dfc-aee2-90e599c47756 = 
+5e08a424-4830-4dfc-aee2-90e599c47756 = 你知道，我理解你的痛苦。
 
 //2220. ORIGINAL [#FF00B050]: I'm not just some big-shot big mouth on the TV.
-ea5f568e-34e3-4c17-ac52-c0dc01506ea2 = 
+ea5f568e-34e3-4c17-ac52-c0dc01506ea2 = 我不仅在电视上大张嘴巴。
 
 //2221. ORIGINAL [#FF00B050]: I'm worried too. I'm worried as hell.
-6806da90-a54c-47f6-a34b-d36716383eb5 = 
+6806da90-a54c-47f6-a34b-d36716383eb5 = 我也担心。我忧心如焚。
 
 //2222. ORIGINAL [#FF00B050]: I believe in our ability to deal with the Knox Event...
-8e4a59ad-04c0-46bd-af98-a8a8129dd81c = 
+8e4a59ad-04c0-46bd-af98-a8a8129dd81c = 我相信我们有能力应对诺克斯事件...
 
 //2223. ORIGINAL [#FF00B050]: ... but there are unknowns. Unknowns make me nervous.
-6a915ffe-ad28-4bad-b2a0-a8d56c770d86 = 
+6a915ffe-ad28-4bad-b2a0-a8d56c770d86 = ...但仍有未知因素。未知因素令我心神不宁。
 
 //2224. ORIGINAL [#FF00B050]: But nervous enough to break into a store and take a VCR?
-3334207b-5dba-4695-a88a-2226651b557c = 
+3334207b-5dba-4695-a88a-2226651b557c = 但紧张到了闯进商店拿录像带了吗？
 
 //2225. ORIGINAL [#FF00B050]: Nervous enough to distract our forces and emergency services?
-3463f3e6-0c0c-4c4b-8982-258d5c35e4cb = 
+3463f3e6-0c0c-4c4b-8982-258d5c35e4cb = 紧张让我们的军队和紧急服务人员分心了吗？
 
 //2226. ORIGINAL [#FF00B050]: That's not even real to me. Not even real.
-70db4ba1-e8cb-4256-a547-cd2f778820f2 = 
+70db4ba1-e8cb-4256-a547-cd2f778820f2 = 这对我来说都不是真的。不真实的。
 
 //2227. ORIGINAL [#FF00B050]: Be scared, sure.
-e66482cf-c15e-4a6a-8178-ff3a2a45b204 = 
+e66482cf-c15e-4a6a-8178-ff3a2a45b204 = 感到恐惧,当然。
 
 //2228. ORIGINAL [#FF00B050]: Just don't let that fear turn to crazy.
-83c8af90-86c8-4cbd-a0db-e5dc64c292c3 = 
+83c8af90-86c8-4cbd-a0db-e5dc64c292c3 = 只是不要让恐惧变成疯狂。
 
 //2229. ORIGINAL [#FF00B050]: We're in this together.
-8319a97c-1e3c-4041-ab14-2571a08055c6 = 
+8319a97c-1e3c-4041-ab14-2571a08055c6 = 我们会团结起来一起面对这件事。
 
 //2230. ORIGINAL [#FF00B050]: I've been hearing a load of phooey about 'the end-times'.
-e7298b2b-65c4-45fb-99da-dd7d442f4aa7 = 
+e7298b2b-65c4-45fb-99da-dd7d442f4aa7 = 我听到了一大堆关于“世界末日”的废话。
 
 //2231. ORIGINAL [#FF00B050]: The Event, the riots, the communications black-out...
-a615cfb7-1aed-4dc1-8123-7973c44d4ba9 = 
+a615cfb7-1aed-4dc1-8123-7973c44d4ba9 = 事件，骚乱，通讯中断...
 
 //2232. ORIGINAL [#FF00B050]: I'm asking you now, what changed?
-a9210756-98a9-414e-84be-737fd33d1b22 = 
+a9210756-98a9-414e-84be-737fd33d1b22 = 我现在问你，是什么改变了？
 
 //2233. ORIGINAL [#FF00B050]: What's changed in past few days, aside from panic?
-f8594010-e993-42f6-804f-be411fab5b1a = 
+f8594010-e993-42f6-804f-be411fab5b1a = 除了恐慌，过去几天发生了什么变化?
 
 //2234. ORIGINAL [#FF00B050]: Look at our police force, look at our doctors and nurses.
-3cfefeea-23c5-4e2a-84ab-a5188ccb5a5e = 
+3cfefeea-23c5-4e2a-84ab-a5188ccb5a5e = 看看我们的警察，看看我们的医生和护士。
 
 //2235. ORIGINAL [#FF00B050]: Follow their example.
-a70356fb-711e-46c8-9d7e-2a79e41b76aa = 
+a70356fb-711e-46c8-9d7e-2a79e41b76aa = 仿效他们的榜样。
 
 //2236. ORIGINAL [#FF00B050]: Here's a word you might not know - 'Stoicism'.
-6aee605e-169c-45a2-968d-25af6c60bbb6 = 
+6aee605e-169c-45a2-968d-25af6c60bbb6 = 这里有一个你可能不知道的单词 —— “Stoicism”。
 
 //2237. ORIGINAL [#FF00B050]: It's Greek. Means you get on with it.
-db849211-acd4-4b17-b6e4-3e8bda1dc3c4 = 
+db849211-acd4-4b17-b6e4-3e8bda1dc3c4 = 这是希腊语。意味着对痛苦的默默承受或泰然处之。
 
 //2238. ORIGINAL [#FF00B050]: It means you trust in people to get things done.
-582a59f8-21ef-4b1e-9e03-08c4d9b7c485 = 
+582a59f8-21ef-4b1e-9e03-08c4d9b7c485 = 这意味着你要相信别人能把事情做好。
 
 //2239. ORIGINAL [#FFFFC000]: A night of chaos. The night our cities exploded with anger.
-d77b7a00-5dcf-42b1-8bf2-a69fc8293a9e = 
+d77b7a00-5dcf-42b1-8bf2-a69fc8293a9e = 混乱之夜。这天晚上，我们城市的愤怒集中爆发了。
 
 //2240. ORIGINAL [#FFFFC000]: In Washington: protests turn ugly. Battle lines form in the street.
-f268ef31-daa7-4358-88ef-d76cd2d5545e = 
+f268ef31-daa7-4358-88ef-d76cd2d5545e = 在华盛顿:抗议活动变得不可收拾。街垒在街上出现。
 
 //2241. ORIGINAL [#FFFFC000]: In Los Angeles: arson, looting and public disorder.
-d208ae8e-9141-4c27-b8db-75d20866438c = 
+d208ae8e-9141-4c27-b8db-75d20866438c = 在洛杉矶：纵火，抢劫，公共秩序一片混乱。
 
 //2242. ORIGINAL [#FFFFC000]: This morning: the President responds.
-eb01f81e-3d03-4ca8-b724-0686033e9c93 = 
+eb01f81e-3d03-4ca8-b724-0686033e9c93 = 今天早上：总统做出了回应。
 
 //2243. ORIGINAL [#FF00B0F0]: I will be able to provide more answers...
-a33a9161-878b-47fc-a084-549ee52bbc6a = 
+a33a9161-878b-47fc-a084-549ee52bbc6a = 当我掌握了...
 
 //2244. ORIGINAL [#FF00B0F0]: ... FULL information...
-1fe4e47c-cf73-4812-9c7d-b45242886e44 = 
+1fe4e47c-cf73-4812-9c7d-b45242886e44 = ...*全部*信息时...
 
 //2245. ORIGINAL [#FF00B0F0]: ... when I have it in my hand.
-b4a761e9-f476-4d38-8896-684abde65f83 = 
+b4a761e9-f476-4d38-8896-684abde65f83 = ...我将会提供更多回复。
 
 //2246. ORIGINAL [#FFFFC000]: The President's words, just moments ago.
-fd048a12-71ba-4b3a-bbc9-03a2a92859f0 = 
+fd048a12-71ba-4b3a-bbc9-03a2a92859f0 = 这是总统刚才的发言。
 
 //2247. ORIGINAL [#FFFFC000]: Meanwhile, international leaders have been quick to condemn America.
-e1a7c3bd-b638-4c3e-8b4d-4a841369808a = 
+e1a7c3bd-b638-4c3e-8b4d-4a841369808a = 与此同时，多国领袖迅速谴责美国。
 
 //2248. ORIGINAL [#FFFFC000]: The UK premier has criticised the President's 'near complete lack of clarity'.
-424a20fd-de64-41f4-b095-41b5a9ed6cc6 = 
+424a20fd-de64-41f4-b095-41b5a9ed6cc6 = 英国首相批评总统“几乎完全缺乏清晰度”。
 
 //2249. ORIGINAL [#FFFFC000]: While international health body the WHO...
-6c608fec-8e37-4a30-bb94-dbaa74e2fb45 = 
+6c608fec-8e37-4a30-bb94-dbaa74e2fb45 = 而世界卫生组织...
 
 //2250. ORIGINAL [#FFFFC000]: ... will be making a statement later today.
-40784c2e-1f07-4cd0-8506-0c5ee9997612 = 
+40784c2e-1f07-4cd0-8506-0c5ee9997612 = ...将在今天晚些时候发表声明。
 
 //2251. ORIGINAL [#FFFFC000]: We'll have it covered here...
-98369f82-52e1-41b5-bff1-7520759d51ca = 
+98369f82-52e1-41b5-bff1-7520759d51ca = 我们会持续跟踪...
 
 //2252. ORIGINAL [#FFFFC000]: We're here with breaking news.
-7a4f6d5e-40f1-4499-9fc0-4c2d90e68f14 = 
+7a4f6d5e-40f1-4499-9fc0-4c2d90e68f14 = 现在播报的是突发新闻。
 
 //2253. ORIGINAL [#FFFFC000]: US Forces have repeated warnings to those on the edge of the Exclusion Zone.
-8f73b969-b3f2-4afe-8835-d9d3dc901eb7 = 
+8f73b969-b3f2-4afe-8835-d9d3dc901eb7 = 美国军队已经多次警告那些在封锁区边缘的人。
 
 //2254. ORIGINAL [#FFFFC000]: Owing to the threat of the spread of the Knox Event...
-184e6db0-da2b-4262-abac-cc0dc1680fe1 = 
+184e6db0-da2b-4262-abac-cc0dc1680fe1 = 由于诺克斯事件传染的威胁...
 
 //2255. ORIGINAL [#FFFFC000]: ...forced dispersal is now an option.
-d9fa8ee6-5886-46c4-b7fd-b2af85809a1a = 
+d9fa8ee6-5886-46c4-b7fd-b2af85809a1a = ...强制疏散现在会是一种选择。
 
 //2256. ORIGINAL [#FFFFC000]: The President has asked for patience and calm...
-2053e13e-74f3-41c7-bc52-6f7f5c25d8c7 = 
+2053e13e-74f3-41c7-bc52-6f7f5c25d8c7 = 在共和党参议员的强烈抗议中...
 
 //2257. ORIGINAL [#FFFFC000]: ...amidst a storm of protest from Republican Senators.
-53b9b081-f54c-4f11-a145-4aaec4b6e591 = 
+53b9b081-f54c-4f11-a145-4aaec4b6e591 = ...总统要求大家保持耐心和冷静。
 
 //2258. ORIGINAL [#FFFFC000]: Now, a report from Kirsty Cormick on the Event line.
-eecb39dc-f479-4fdb-9d38-f41709784d2a = 
+eecb39dc-f479-4fdb-9d38-f41709784d2a = 现在，由克斯蒂·考密克带来事件专线的报道。
 
 //2259. ORIGINAL [#FF8080FF]: Here in Kentucky, in the camps just outside the Exclusion Zone...
-b40eaeb9-7b6a-4b68-b224-f37a1daf1b6b = 
+b40eaeb9-7b6a-4b68-b224-f37a1daf1b6b = 我在在肯塔基州，在封锁区外的安置营里...
 
 //2260. ORIGINAL [#FF8080FF]: ... rumormongering and anger are rife.
-41ea94ce-1e76-483d-95d0-49383e4f4fb2 = 
+41ea94ce-1e76-483d-95d0-49383e4f4fb2 = ...谣言和愤怒盛行。
 
 //2261. ORIGINAL [#FF8080FF]: Officially released photographs from inside the Zone...
-50c1a19f-980e-496c-b9a7-f4d22876a876 = 
+50c1a19f-980e-496c-b9a7-f4d22876a876 = 官方公布的封锁区内的照片...
 
 //2262. ORIGINAL [#FF8080FF]: ... have failed to calm the folks here.
-b9277e94-348d-4c45-8dfe-3247d2a897c0 = 
+b9277e94-348d-4c45-8dfe-3247d2a897c0 = ...没能让这里的人们平静下来。
 
 //2263. ORIGINAL [#FF8080FF]: The presence of the military, however, has kept the peace.
-1430aedf-0a3a-4bd5-b7db-c2fda53e6f55 = 
+1430aedf-0a3a-4bd5-b7db-c2fda53e6f55 = 好在，军队的存在维持了和平。
 
 //2264. ORIGINAL [#FF8080FF]: Still though, rumors of the degenerative nature of the Knox Event will NOT go away.
-a30dd058-8c80-4c84-bec5-9a1d219089e7 = 
+a30dd058-8c80-4c84-bec5-9a1d219089e7 = 尽管如此，关于诺克斯事件的负面传闻*不会*消失。
 
 //2265. ORIGINAL [#FFFFC000]: Panic-buying and looting have continued to escalate.
-2b6c968a-888a-4c0f-994a-748e8d87dc97 = 
+2b6c968a-888a-4c0f-994a-748e8d87dc97 = 疯狂抢购和抢劫行为继续升级。
 
 //2266. ORIGINAL [#FFFFC000]: These images show today's running battle between masked youths...
-ce98252a-4e30-4532-b46e-bdf328380815 = 
+ce98252a-4e30-4532-b46e-bdf328380815 = 这些图片显示了今天一些蒙面年轻人...
 
 //2267. ORIGINAL [#FFFFC000]: ... and law enforcement officials in Memphis.
-8590cbb4-e679-40a1-9676-064774c744b0 = 
+8590cbb4-e679-40a1-9676-064774c744b0 = ...和孟菲斯市执法人员之间的持续斗争。
 
 //2268. ORIGINAL [#FFFFC000]: No corner of the United States is unaffected by the chaos.
-b2b6132b-96b4-4571-8b81-64c2a4de8962 = 
+b2b6132b-96b4-4571-8b81-64c2a4de8962 = 美国无处不受到这场混乱的影响。
 
 //2269. ORIGINAL [#FFFFC000]: As panic reaches endemic levels, public flights have been grounded...
-16528beb-e64c-4fbc-8951-6b4cd699cc1c = 
+16528beb-e64c-4fbc-8951-6b4cd699cc1c = 随着恐慌达到流行程度，公共航班...
 
 //2270. ORIGINAL [#FFFFC000]: ... at the demand of the World Health Organisation.
-39683e65-7358-4c87-a459-5eeb5a0e6a02 = 
+39683e65-7358-4c87-a459-5eeb5a0e6a02 = ...已在世界卫生组织的要求下停飞。
 
 //2271. ORIGINAL [#FFFFC000]: As these pictures show, the Army has been mobilised and is rolling into major cities...
-beca1997-006e-4866-842c-4e1639108abf = 
+beca1997-006e-4866-842c-4e1639108abf = 如图所示，由于担心进一步的示威游行和国内骚乱...
 
 //2272. ORIGINAL [#FFFFC000]: ...for fear of further demonstrations and civil unrest.
-7a8ff703-afa1-445e-8998-ec118c6bdfb2 = 
+7a8ff703-afa1-445e-8998-ec118c6bdfb2 = ...军队已经被动员并向主要城市开进。
 
 //2273. ORIGINAL [#FFFFC000]: The State Department has underlined that the Knox Event is contained.
-2e90e082-af68-43d1-b4ff-59e2b76a0de1 = 
+2e90e082-af68-43d1-b4ff-59e2b76a0de1 = 国务院强调指出，诺克斯事件已得到遏制。
 
 //2274. ORIGINAL [#FFFFC000]: They state that the need for panic is over...
-a0f4c35e-c5ce-4160-ae46-56e60d2264df = 
+a0f4c35e-c5ce-4160-ae46-56e60d2264df = 他们表示，恐慌的需要已经结束...
 
 //2275. ORIGINAL [#FFFFC000]: ... and are considering the nationwide implementation of a curfew.
-80f64ca5-f732-4a22-bf10-622edfbba80c = 
+80f64ca5-f732-4a22-bf10-622edfbba80c = ...正在考虑在全国范围内实施宵禁。
 
 //2276. ORIGINAL [#FFFFC000]: The President has made the following statement:
-bb49d627-36d9-43cc-90c7-50a985719e14 = 
+bb49d627-36d9-43cc-90c7-50a985719e14 = 总统发表了以下声明：
 
 //2277. ORIGINAL [#FFFFC000]: We'll be keeping you updated throughout the night...
-1e5a3195-5d2f-4f1e-956e-9e6727f0e497 = 
+1e5a3195-5d2f-4f1e-956e-9e6727f0e497 = 我们整晚都会为您提供最新消息...
 
 //2278. ORIGINAL [#FF00B050]: Just stop it people! Stop this insanity.
-b129eef6-6990-4bc4-ad58-3e1e1c29559d = 
+b129eef6-6990-4bc4-ad58-3e1e1c29559d = 快停下，公民们！停止这种疯狂。
 
 //2279. ORIGINAL [#FF00B050]: You think setting the world alight's gonna give you an answer?
-9f03cf7a-ca32-4b8c-8668-16f92b78ee29 = 
+9f03cf7a-ca32-4b8c-8668-16f92b78ee29 = 你以为点燃世界就能给你答案吗？
 
 //2280. ORIGINAL [#FF00B050]: If you want to stockpile food?
-95e1d135-a1f5-42e8-858d-3faa6069515b = 
+95e1d135-a1f5-42e8-858d-3faa6069515b = 如果你想储存食物呢？
 
 //2281. ORIGINAL [#FF00B050]: Fine: it's your right.
-7059cd7e-9755-4f9b-9dc4-4c38ed3073d3 = 
+7059cd7e-9755-4f9b-9dc4-4c38ed3073d3 = 好吧：这是你的权利。
 
 //2282. ORIGINAL [#FF00B050]: You want to buy guns?
-8fc31c46-df80-40f7-a048-ec5082b1a85c = 
+8fc31c46-df80-40f7-a048-ec5082b1a85c = 你想买枪？
 
 //2283. ORIGINAL [#FF00B050]: I'm sitting on an ammo dump here.
-655636db-90bd-4636-bbb8-96b6c95e813d = 
+655636db-90bd-4636-bbb8-96b6c95e813d = 我现在坐在弹药堆上。
 
 //2284. ORIGINAL [#FF00B050]: You want to open fire on officials on a New York street?
-a862bbc0-d4c7-44b2-a2c4-d4fdaf598ea7 = 
+a862bbc0-d4c7-44b2-a2c4-d4fdaf598ea7 = 你想在纽约街头向警官们开火吗？
 
 //2285. ORIGINAL [#FF00B050]: Get the hell out of my country.
-dd08754e-3f35-4411-86e7-dd643d7c3c6b = 
+dd08754e-3f35-4411-86e7-dd643d7c3c6b = 滚出我的国家。
 
 //2286. ORIGINAL [#FF00B050]: I feel for the people trapped within the Event boundary.
-e6f8bd91-462b-4d56-ace0-7fcbba6df47b = 
+e6f8bd91-462b-4d56-ace0-7fcbba6df47b = 我同情那些被困在事件边界内的人。
 
 //2287. ORIGINAL [#FF00B050]: Who couldn't?
-2a1c0d26-cd83-4e35-a8a1-cb675d078a81 = 
+2a1c0d26-cd83-4e35-a8a1-cb675d078a81 = 谁不同情呢？
 
 //2288. ORIGINAL [#FF00B050]: As for the rumors of fatalities as they try to escape...
-a699ed5b-3ce8-46cb-b368-fe66fcf7f958 = 
+a699ed5b-3ce8-46cb-b368-fe66fcf7f958 = 至于那些他们试图逃跑时有人死亡的传闻...
 
 //2289. ORIGINAL [#FF00B050]: It breaks my heart, just as it does yours.
-87736d3e-6b92-4022-83e0-81522ea7d8ad = 
+87736d3e-6b92-4022-83e0-81522ea7d8ad = 它让我心碎，就像它让你心碎一样。
 
 //2290. ORIGINAL [#FF00B050]: I feel sorry for all involved.
-de4366eb-6fd8-424e-9ba6-a532528eeceb = 
+de4366eb-6fd8-424e-9ba6-a532528eeceb = 我为所有牵涉其中的人感到难过。
 
 //2291. ORIGINAL [#FF00B050]: The poor souls inside...
-306947cc-d336-4f44-9dd4-0dc9477d96b5 = 
+306947cc-d336-4f44-9dd4-0dc9477d96b5 = 里面那些可怜的灵魂...
 
 //2292. ORIGINAL [#FF00B050]: ...and the guys pulling the trigger.
-8244f473-5dec-4b8f-b73d-c81955cec20e = 
+8244f473-5dec-4b8f-b73d-c81955cec20e = ...和扣动扳机的家伙。
 
 //2293. ORIGINAL [#FF00B050]: Does securing the safety of America, and the World, justify all this?
-122c443c-1bec-4318-bb0e-49e9d5a09987 = 
+122c443c-1bec-4318-bb0e-49e9d5a09987 = 但如果是为了美国和全世界的安全，这一切都是正当的吗?
 
 //2294. ORIGINAL [#FF00B050]: I think so. I hope so.
-343bc57b-e623-454b-b39f-7ddb423d9fbe = 
+343bc57b-e623-454b-b39f-7ddb423d9fbe = 我想是的。我希望如此。
 
 //2295. ORIGINAL [#FF00B050]: Only God knows.
-8b6a19ce-1705-4ba3-9d37-2ce437a58d7b = 
+8b6a19ce-1705-4ba3-9d37-2ce437a58d7b = 只有上帝知道。
 
 //2296. ORIGINAL [#FF00B050]: He will judge us correctly.
-562d2d03-2b11-4500-a18f-a0f56c443070 = 
+562d2d03-2b11-4500-a18f-a0f56c443070 = 等到那时。
 
 //2297. ORIGINAL [#FF00B050]: When the time comes.
-809e0293-d997-4964-b422-ad0515fee3e3 = 
+809e0293-d997-4964-b422-ad0515fee3e3 = 祂会公正地审判我们。
 
 //2298. ORIGINAL [#FFFFC000]: Throughout the night panic has turned to chaos.
-3ba7c735-ea63-400d-903b-3e20b0a841c4 = 
+3ba7c735-ea63-400d-903b-3e20b0a841c4 = 一夜之间，恐慌变成了混乱。
 
 //2299. ORIGINAL [#FFFFC000]: Civil disturbance in: New York, Miami, Detroit and downtown LA.
-4d11b999-7127-4ac4-bae3-4abd8b66f3ef = 
+4d11b999-7127-4ac4-bae3-4abd8b66f3ef = 骚乱发生在:纽约、迈阿密、底特律和洛杉矶市中心。
 
 //2300. ORIGINAL [#FFFFC000]: Our reporter Mark Spedding is in New York.
-a33017c3-d635-4aa3-bb7d-957ce2eee5b8 = 
+a33017c3-d635-4aa3-bb7d-957ce2eee5b8 = 我们的记者马克·斯佩丁在纽约发来报道。
 
 //2301. ORIGINAL [#FF00B050]: An angry crowd at City Hall. A wall of police officers.
-5264213a-bdea-49e7-8226-ea1c3f921659 = 
+5264213a-bdea-49e7-8226-ea1c3f921659 = 愤怒的人群聚集在市政厅。—— 警察组成了人墙。
 
 //2302. ORIGINAL [#FF00B050]: Then: an attempted dispersal of protesters, leading to reported fatalities.
-d932f6ab-4a82-4f8d-a25e-4f65058fb5c3 = 
+d932f6ab-4a82-4f8d-a25e-4f65058fb5c3 = 然后:试图驱散抗议者时，出现了死亡报告。
 
 //2303. ORIGINAL [#FF00B050]: The NYPD are using water cannons, but NNN can also reveal we've seen...
-7e16d331-8c12-44f1-813a-68481770210b = 
+7e16d331-8c12-44f1-813a-68481770210b = 纽约警方使用了高压水炮，但NNN电视台透露他们看到...
 
 //2304. ORIGINAL [#FF00B050]: ... military servicemen within police ranks.
-2030fb11-69a3-4600-9876-c900885c8994 = 
+2030fb11-69a3-4600-9876-c900885c8994 = ...警察队伍中混有军人。
 
 //2305. ORIGINAL [#FF00B050]: Could this show the rumors of a curfew are coming true?
-bad9c865-e08c-4ade-93c4-b0481a9ef82d = 
+bad9c865-e08c-4ade-93c4-b0481a9ef82d = 这能说明宵禁的传言成真了吗？
 
 //2306. ORIGINAL [#FF00B050]: This feels like an endgame, Joan.
-0566d003-7035-472b-905d-6e5aa081cfca = 
+0566d003-7035-472b-905d-6e5aa081cfca = 这感觉像是尾声了，琼。
 
 //2307. ORIGINAL [#FFFFC000]: Thank you Mark. Stay safe out there.
-36ea61ac-bd77-4cc6-a50f-877db48c04ef = 
+36ea61ac-bd77-4cc6-a50f-877db48c04ef = 谢谢你，马克。在现场注意安全。
 
 //2308. ORIGINAL [#FFFFC000]: Now we turn to the Knox Event itself.
-7bada737-fea3-4ed9-a882-0c03147c789a = 
+7bada737-fea3-4ed9-a882-0c03147c789a = 现在我们来看看诺克斯事件本身。
 
 //2309. ORIGINAL [#FFFFC000]: Yesterday saw the Exclusion Zone radius widened.
-2efc541d-9d17-4a2f-996e-8f894ead49d3 = 
+2efc541d-9d17-4a2f-996e-8f894ead49d3 = 昨天，封锁区半径范围扩大了。
 
 //2310. ORIGINAL [#FFFFC000]: Camps of refugees and bystanders have been removed.
-e878c068-7085-48a6-922b-7ffd3baae276 = 
+e878c068-7085-48a6-922b-7ffd3baae276 = 安置营和围观者已被拆除和驱散。
 
 //2311. ORIGINAL [#FFFFC000]: Some forcibly.
-d74e4a9a-4476-4770-b217-c5992bdd63fd = 
+d74e4a9a-4476-4770-b217-c5992bdd63fd = 有些强行。
 
 //2312. ORIGINAL [#FFFFC000]: We'll have updates as they happen...
-c2225e87-cafc-4a07-8884-ef2b960ee79c = 
+c2225e87-cafc-4a07-8884-ef2b960ee79c = 我们会随时更新进展...
 
 //2313. ORIGINAL [#FFFFC000]: Good morning, we're coming to you directly from the White House briefing room.
-48691095-afbb-42f2-9476-8a9d322bc75c = 
+48691095-afbb-42f2-9476-8a9d322bc75c = 早上好，我们直接从白宫简报室为您报道。
 
 //2314. ORIGINAL [#FFFFC000]: The President has just announced a curfew in New York, Miami and LA with more to follow.
-a889f3ab-6691-4c27-93eb-38f08833f23e = 
+a889f3ab-6691-4c27-93eb-38f08833f23e = 总统刚刚宣布在纽约，迈阿密和洛杉矶实行宵禁，还有更多后续行动。
 
 //2315. ORIGINAL [#FFFFC000]: Reports are coming in of military convoys moving from bases and into the heart of major cities.
-d6e78f6d-ba4e-4125-ab07-cf33746be5a4 = 
+d6e78f6d-ba4e-4125-ab07-cf33746be5a4 = 有报道称，军事车队正从基地出发进入各主要城市的心脏地带。
 
 //2316. ORIGINAL [#FFFFC000]: This is the President's statement in full:
-7c96ee1c-473b-45cc-9e40-153a1a2f5b57 = 
+7c96ee1c-473b-45cc-9e40-153a1a2f5b57 = 以下是总统的声明全文：
 
 //2317. ORIGINAL [#FF00B0F0]: And for the rumormongering that has grown around the so-called 'Knox Event'.
-f84e3dd5-86f2-4018-91d4-da9018eb2fa1 = 
+f84e3dd5-86f2-4018-91d4-da9018eb2fa1 = 以及围绕所谓的“诺克斯事件”的流言蜚语。
 
 //2318. ORIGINAL [#FFFFC000]: We'll be updating you throughout the day...
-8462604c-dba0-4f79-957b-cf2bed688062 = 
+8462604c-dba0-4f79-957b-cf2bed688062 = 我们将全天为您提供最新消息...
 
 //2319. ORIGINAL [#FFFFC000]: Tonight from 6pm a curfew has been announced in major cities across the nation.
-219a5fd3-49af-4167-9a84-7f05ee363984 = 
+219a5fd3-49af-4167-9a84-7f05ee363984 = 今晚6点起，全国主要城市宣布实行宵禁。
 
 //2320. ORIGINAL [#FFFFC000]: New York, Miami, Los Angeles and more to come.
-4afa783d-b04f-4294-98b4-f03d2c8251fb = 
+4afa783d-b04f-4294-98b4-f03d2c8251fb = 纽约，迈阿密，洛杉矶，还有更多的城市。
 
 //2321. ORIGINAL [#FFFFC000]: These pictures show military forces setting up shop in the heart of our cities.
 6c1fe212-f69a-4b63-b49a-25d8111fc3ae = 
