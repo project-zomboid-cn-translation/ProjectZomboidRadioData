@@ -7826,7 +7826,7 @@ a0464b84-00b5-429e-8d28-5f638ef8e9ee = 是的,黛安,但是没能走太远
 e77714ca-d66f-40c8-9a2b-af4402fbe9ec = 我们找到一个来自西点镇的司机
 
 //2605. ORIGINAL [#FF00B050]: He told us he'd take is in to find the truth.
-2a082cc1-75b5-4347-9bf1-2f0d3295eb5a = 他会告诉我们真相
+2a082cc1-75b5-4347-9bf1-2f0d3295eb5a = 他说要带我们进去找寻真相
 
 //2606. ORIGINAL [#FF00B050]: And to find his family.
 071d916e-f380-4bf1-b258-2d9ff8be1d12 = 并且希望借此找到他的家人
@@ -7841,13 +7841,13 @@ e77714ca-d66f-40c8-9a2b-af4402fbe9ec = 我们找到一个来自西点镇的司�
 c2a15257-329f-470c-9de7-f7ea9c1c1abd = 我们很快就被带离了这里
 
 //2610. ORIGINAL [#FF00B050]: I was in cells overnight. No closer to the truth.
-4ce405ca-fd99-48bf-a3b1-497373770ca2 = 我们在牢房里过得夜,距离事实真相又更近了一步
+4ce405ca-fd99-48bf-a3b1-497373770ca2 = 我们在牢房里过的夜,距离事实真相又更远了一步
 
 //2611. ORIGINAL [#FF00B050]: Is there something we're not being told Richard?
-559e16f6-3e04-43b8-af00-0d35e13ebdb4 = 还有什么事是没告诉理查德的么？
+559e16f6-3e04-43b8-af00-0d35e13ebdb4 = 理查德，官方是不是有什么消息瞒着我们呢？
 
 //2612. ORIGINAL [#FF00B050]: If we hear it, it will be tomorrow.
-f93cf20e-9897-4ec2-ba1c-43e515f64e08 = 即使我们知道了,那也要等到明天了
+f93cf20e-9897-4ec2-ba1c-43e515f64e08 = 就算能听到什么消息，那也得是明天了
 
 //2613. ORIGINAL [#FF00B050]: General John McGrew has stated there will be a press conference.
 d8389e42-941b-4e37-a782-a04165612587 = 约翰·麦格雷夫将军说会有一个记者招待会
@@ -7856,7 +7856,7 @@ d8389e42-941b-4e37-a782-a04165612587 = 约翰·麦格雷夫将军说会有一个
 c5f15908-0098-46b5-8fb5-41576fd49852 = 在那里会给出大家答案,还请大家放心
 
 //2615. ORIGINAL [#FF00B050]: That won't be enough for my friend in the pick-up though.
-f601a453-917b-4355-9f74-6062e47e7c77 = 不过,这对我的朋友来说还不够
+f601a453-917b-4355-9f74-6062e47e7c77 = 不过,这对我的皮卡车司机朋友来说还不够
 
 //2616. ORIGINAL [#FF00B050]: He's still in the cells. My thanks to Triple N for getting me out so quick.
 237c980f-a286-43b3-ba73-057e05552e5a = 他还在牢房里.感谢Triple N让我这么快就出来了
@@ -7868,37 +7868,37 @@ d1918633-1de3-4375-be90-e28fe589fa70 = 照顾好你自己,理查德！
 a2e6e25b-399a-4193-8332-a29c4747491c = 我会的,黛安！
 
 //2619. ORIGINAL [#FFFFC000]: Welcome to Talk the Night. With you until Dawn! I'm Dawn Stevenson.
-7e5c3cdc-52a6-415b-a54b-4ad1c781f893 =欢迎来到今天的夜间访谈.和你在一起直到黎明！我是道恩·史蒂文森
+7e5c3cdc-52a6-415b-a54b-4ad1c781f893 =欢迎来到夜间访谈.伴你到黎明！我是道恩·史蒂文森
 
 //2620. ORIGINAL [#FFFFC000]: I'm here with the campaigner and activist Iain Sweetman.
-c76fbc59-13c6-4217-9fcb-c91341114b29 = 我和罗利事件的幸存者伊恩·斯威特曼在一起
+c76fbc59-13c6-4217-9fcb-c91341114b29 = 我和抗议分子伊恩·斯威特曼在一起
 
 //2621. ORIGINAL [#FFFFC000]: Now Iain, for those who don't know your...
 73be17b0-84ca-4996-8a4d-b65a1d479cb2 = 现在伊恩,对于那些不认识你的人....
 
 //2622. ORIGINAL [#FF00B050]: My wife died during the Raleigh Outbreak.
-f9101ea7-e347-4e75-bce9-88ae3a534d21 = 我的妻子在罗利的事件中去世了
+f9101ea7-e347-4e75-bce9-88ae3a534d21 = 我的妻子在罗利事件中去世了
 
 //2623. ORIGINAL [#FF00B050]: All I wanted ever since was justice for her.
 9ea16fd8-8657-47e2-96a5-7d7e1c051dc3 = 从那以后我只想为她讨个公道
 
 //2624. ORIGINAL [#FF00B050]: The Center for Disease Control was unfit for purpose.
-3e3bcbde-613f-434a-9c0a-51a69c9e528d = 疾病控制中心并不能成为一个借口
+3e3bcbde-613f-434a-9c0a-51a69c9e528d = 疾控中心并不能成为一个借口
 
 //2625. ORIGINAL [#FF00B050]: Sure, they beat it. But only after so many needless...
-01751f5d-15ad-4be9-ae56-2771e30b25e8 = 当然,他们赢了,但是在那么多本可以避免的事情之后......
+01751f5d-15ad-4be9-ae56-2771e30b25e8 = 的确，他们是摆平事件了。可明明可以避免那么多不必要的...
 
 //2626. ORIGINAL [#FF00B050]: ... just so many deaths.
-e7c7d04b-c428-42ae-ad5a-565843e8a80e = ...死了那么多的人
+e7c7d04b-c428-42ae-ad5a-565843e8a80e = ...实在是死了太多人了
 
 //2627. ORIGINAL [#FFFFC000]: Iain, if you don't mind me asking...
-42049117-b73b-43ca-b282-4b6da25eb81a = 伊恩,如果你不介意我问.....
+42049117-b73b-43ca-b282-4b6da25eb81a = 伊恩，希望你别介意我的问题...
 
 //2628. ORIGINAL [#FFFFC000]: ... in the Knox Event do you see history repeating?
-e8707a43-b04d-4cc6-ba7d-1f211cf44034 = .....在诺克斯事件中,能看到历史在重演么？
+e8707a43-b04d-4cc6-ba7d-1f211cf44034 = .....在诺克斯事件中,你是否看到历史在重演？
 
 //2629. ORIGINAL [#FF00B050]: I hope not. I see activity, and I see action.
-540cc7bd-3628-4f5b-b586-fb8953317fe8 = 我希望不会,我看到了有人开始了活动并采取行动
+540cc7bd-3628-4f5b-b586-fb8953317fe8 = 我希望没吧。毕竟我看到了举措，看到了行动
 
 //2630. ORIGINAL [#FF00B050]: That was sorely lacking in Raleigh.
 9001cc1a-5458-47e0-ac91-db4454a2642f = 这在罗利是非常缺乏的
@@ -7910,10 +7910,10 @@ e8707a43-b04d-4cc6-ba7d-1f211cf44034 = .....在诺克斯事件中,能看到历�
 6b8504e1-0bec-4636-a5c0-2a22639d3b35 = 我记得,我的几个同事感染了这种病毒
 
 //2633. ORIGINAL [#FF00B050]: It made for good copy from the quarantine camps.
-204cc740-c50c-4c22-bd46-92994f300801 = 他们被带进了标准化的隔离营地
+204cc740-c50c-4c22-bd46-92994f300801 = 他们透露了许多隔离营的内幕
 
 //2634. ORIGINAL [#FF00B050]: So it added to the hysteria too.
-4fb8804e-9c9d-4696-be13-b2bfc52ddac8 = 当然,这也使得他们很抓狂
+4fb8804e-9c9d-4696-be13-b2bfc52ddac8 = 也因此加剧了恐慌
 
 //2635. ORIGINAL [#FF00B050]: I'm at peace with it all now. Since the court ruling.
 76a2c3cb-c322-49e1-843c-3d93995a9ff7 = 自从法院判决之后,我选择接受了一切
@@ -7958,19 +7958,19 @@ b3b69cd2-6061-4992-9958-a3d5a6524715 = 黛安,这里充满了恐慌和混乱
 cc9acd26-7ee6-4279-915b-b308fc1f6f9d = 道路被堵住了,并且检查站也已经被建立了.
 
 //2649. ORIGINAL [#FF00B050]: Equipment waiting for overseas deployment is instead...
-b0ab6447-c58f-4dcd-8bf9-1af8b85da72f = 那些等待着海外驻军所使用的装备
+b0ab6447-c58f-4dcd-8bf9-1af8b85da72f = 那些等着运往海外的装备...
 
 //2650. ORIGINAL [#FF00B050]: ... being used to separate victims of an unknown disease...
-d3022ba1-e9eb-47f8-b74e-ac5020d42da8 = 已经被用了分开那些未知疾病的受害者
+d3022ba1-e9eb-47f8-b74e-ac5020d42da8 = 正被用来将感染未知病毒的患者...
 
 //2651. ORIGINAL [#FF00B050]: ... from the rest of America.
-6103e8e1-5594-46d7-9f15-5e51087c7f8e = 在美国的其他地方
+6103e8e1-5594-46d7-9f15-5e51087c7f8e = 和其余的美国人隔开
 
 //2652. ORIGINAL [#FF00B050]: Everything below the curve of the Ohio river is a no-go zone, Diane.
-c6494a26-93e5-4665-90cb-d17348fb96d3 = 并且所有在俄亥俄河下方都是隔离区, 戴安.
+c6494a26-93e5-4665-90cb-d17348fb96d3 = 俄亥俄河下方都是隔离区, 戴安.
 
 //2653. ORIGINAL [#FF8080FF]: What's the word on the people in there?
-660cd27d-c462-47e8-b478-dca7eed7963e = 今天有什么官方对隔离区民众要说的吗 ？
+660cd27d-c462-47e8-b478-dca7eed7963e = 当地有什么新消息吗？
 
 //2654. ORIGINAL [#FF00B050]: No official update today, still the reports of 'panic and confusion'.
 735f128f-9bea-4ccf-bf94-523a3d44e6d4 = 今天没有官方的新消息, 还是只有关于恐慌和混乱的报告.
@@ -7988,7 +7988,7 @@ c6494a26-93e5-4665-90cb-d17348fb96d3 = 并且所有在俄亥俄河下方都是�
 2f837f9a-f555-489d-953d-cf1a1c1b80e3 = …暂停当地通讯以维护线路,但恐怕真相远不止于此.
 
 //2659. ORIGINAL [#FF00B050]: The situation would seem to be unfortunate in the extreme.
-93967b2a-df8d-4227-bc5d-b36024e157f6 =现在的情况已经不幸到了极点.
+93967b2a-df8d-4227-bc5d-b36024e157f6 =现在的情况似乎已经不幸到了极点.
 
 //2660. ORIGINAL [#FF8080FF]: So we want answers Richard, when are we getting them?
 01f79424-e17e-435d-95af-ad0c95daf477 = 我们需要答案,理查德,什么时候我们才能得到答案呢？
@@ -7997,7 +7997,7 @@ c6494a26-93e5-4665-90cb-d17348fb96d3 = 并且所有在俄亥俄河下方都是�
 cb325173-39cc-4003-86d8-499ad6eb702d = 稍后回来,我是黛安.
 
 //2662. ORIGINAL [#FF00B050]: General John McGrew will be holding a press conference in the...
-8edf740c-72fd-4654-a649-8f9a823b2437 = 约翰 麦格鲁将军将会在今天下午举行一场发布会…
+8edf740c-72fd-4654-a649-8f9a823b2437 = 约翰 麦格鲁将军将会在今天下午举行一场新闻发布会…
 
 //2663. ORIGINAL [#FF00B050]: ... temporary camp behind me this afternoon.
 319dc33c-4230-4a07-9c0b-02d9449cfdb5 = 地点就在我身后的临时营地里.
@@ -8006,7 +8006,7 @@ cb325173-39cc-4003-86d8-499ad6eb702d = 稍后回来,我是黛安.
 c6e3a12b-bd10-42f0-b12b-143b273c5ec6 = 许多愤怒的当地群众想要听听他的说法.
 
 //2665. ORIGINAL [#FF8080FF]: I bet they do. Okay Richard, thanks for the report.
-b5cf4580-c984-4886-819f-3356850a387a = 我敢打赌他们一定会想听将军的解释的.好的理查德,多谢你的报道.
+b5cf4580-c984-4886-819f-3356850a387a = 那是当然，他们一定会想听将军的解释的.好的理查德,多谢你的报道.
 
 //2666. ORIGINAL [#FF8080FF]: Meanwhile key Republicans have poured scorn on the President's handling...
 5f8a7720-5789-4487-8034-e8912b8303b2 = 与此同时,一些共和党的关键人物纷纷批评总统对于肯塔基州的疫情爆发……
@@ -8015,13 +8015,13 @@ b5cf4580-c984-4886-819f-3356850a387a = 我敢打赌他们一定会想听将军�
 7c794828-3955-405a-9993-0ee894bf1152 = …处理不当,缺乏策略.
 
 //2668. ORIGINAL [#FF8080FF]: More on that, and the political storm brewing in DC...
-e6021a45-5e8e-464c-ac1e-c3afa38c988c = 还有更多,华盛顿正在酝酿一场政治风暴...
+e6021a45-5e8e-464c-ac1e-c3afa38c988c = 不仅如此,在听到这些质疑声后...
 
 //2669. ORIGINAL [#FF8080FF]: ... after these messages.
-2b23db63-990b-4aa1-b838-4630dd8a2adf = ... 在这些信息之后
+2b23db63-990b-4aa1-b838-4630dd8a2adf = ...华盛顿正酝酿一起政治风暴
 
 //2670. ORIGINAL [#FF8080FF]: We're going straight over to a statement made by...
-f8b4b36d-231d-4513-8b0e-9ef6d31cfde9 = 我们要发布一个声明....
+f8b4b36d-231d-4513-8b0e-9ef6d31cfde9 = 下面直接播报一起来自...
 
 //2671. ORIGINAL [#FF8080FF]: ... a General John McGrew on the Knox Exclusion Zone boundary.
 e0b0c049-4b96-4a6b-abf3-15bc0dc6ecfa = ... 诺克斯隔离区边界上的约翰·麦格雷夫将军
@@ -8036,13 +8036,13 @@ e0b0c049-4b96-4a6b-abf3-15bc0dc6ecfa = ... 诺克斯隔离区边界上的约翰�
 db9bad1b-aea1-4817-84c1-8127f3333468 = 这次对话结束的很强硬,理查德？
 
 //2675. ORIGINAL [#FF00B050]: It was. There's still a lot unsaid down here.
-e6706448-8774-4a9e-84d8-c7c037234529 = 是的,后面还有很多话都没有说完
+e6706448-8774-4a9e-84d8-c7c037234529 = 是的,还有很多事都没有说到
 
 //2676. ORIGINAL [#FF00B050]: No word on the Knox Telecommunications issue.
-c868d060-7f59-4638-9794-6515b6c0350f = 没有关于诺克斯通信系统的问题
+c868d060-7f59-4638-9794-6515b6c0350f = 没有谈及有关诺克斯通信系统的问题
 
 //2677. ORIGINAL [#FF00B050]: No explanation on why this... huge logistical operation is necessary.
-c932a8ed-148b-4ba4-a746-7d9c48d9cf4f = 没有任何的解释.....还有大量重要的后勤工作
+c932a8ed-148b-4ba4-a746-7d9c48d9cf4f = 没有解释为什么...需要如此大量的后勤
 
 //2678. ORIGINAL [#FF00B050]: There's a lot of angry, scared people here.
 54578124-87b1-4b7b-a636-294fbaa61d8f = 这里有很多愤怒和害怕的人们.
@@ -8051,7 +8051,7 @@ c932a8ed-148b-4ba4-a746-7d9c48d9cf4f = 没有任何的解释.....还有大量重
 94bedac7-2f2e-4b0d-ba43-c8c2a6517194 = 他们无法回家,也无法跟他们的家人取得联系.
 
 //2680. ORIGINAL [#FF00B050]: And the threat is still an unknown.
-207ee502-0720-4cfa-8d68-876e495f84e0 = 现在具体的威胁是什么还不清楚
+207ee502-0720-4cfa-8d68-876e495f84e0 = 连面临的是什么威胁都不清楚
 
 //2681. ORIGINAL [#FF8080FF]: Keep digging Richard.
 6ec13f3c-bf64-4a51-8d7c-1167bc82860f = 继续调查,理查德.
@@ -8063,7 +8063,7 @@ c932a8ed-148b-4ba4-a746-7d9c48d9cf4f = 没有任何的解释.....还有大量重
 70a2a0cd-a657-46d4-a491-a7dd44a8e89d = 接下来：总统...
 
 //2684. ORIGINAL [#FF8080FF]: ... the Center for Disease Control.
-3ab51f26-5134-45e3-a062-0b7d51ba4206 = ...与疾病控制中心开会.
+3ab51f26-5134-45e3-a062-0b7d51ba4206 = ...与疾控中心开会.
 
 //2685. ORIGINAL [#FF8080FF]: Up after this.
 ef7cb2a7-3aad-456e-9888-9db8a4881bd4 = 在这之后.
@@ -8087,13 +8087,13 @@ a5dff05d-b90e-4dca-a34e-270eaace8b02 = ...就这场事件发表声明之后做�
 e98b541b-6fd6-42e3-8b86-afbeccd0d179 = 我们将会随时掌握最新消息.
 
 //2692. ORIGINAL [#FFFFC000]: Welcome to Talk the Night, with you till dawn! I'm Dawn Stevenson.
-dada104c-904c-490b-aa3c-9f2e6eb660e7 = 欢迎来到深夜访谈节目,我们将陪伴你到黎明！我是史蒂文森.
+dada104c-904c-490b-aa3c-9f2e6eb660e7 = 欢迎来到夜间访谈，伴你到黎明！我是道恩·史蒂文森
 
 //2693. ORIGINAL [#FFFFC000]: For obvious reasons our planned interview with astronomer Jake Snow...
-d0bcaebf-7470-41df-ae1e-a65e9070068b = 很显然,我们推迟了对天文学家...
+d0bcaebf-7470-41df-ae1e-a65e9070068b = 由于众所周知的原因,我们推迟了对天文学家杰克·斯诺...
 
 //2694. ORIGINAL [#FFFFC000]: ... on the meteorite showers we've been seeing has been postponed.
-0605be11-5baf-4ee8-ad01-4a392dde1647 = ...杰克·斯诺关于流星雨的采访计划.
+0605be11-5baf-4ee8-ad01-4a392dde1647 = ...关于近期持续陨石雨的采访
 
 //2695. ORIGINAL [#FFFFC000]: With me in the chair instead: Lieutenant General Jim Deacon - retired.
 ce594946-f525-4e53-992d-4add812c7d1a = 现在坐在我身边是已退役的吉姆·迪肯中将.
@@ -8102,10 +8102,10 @@ ce594946-f525-4e53-992d-4add812c7d1a = 现在坐在我身边是已退役的吉�
 16ea26c8-79b1-4788-b005-66262b4db4f9 = 您应该很了解...
 
 //2697. ORIGINAL [Red]: The area. Yes. Knox was my patch, long ago.
-a851c9a6-59d6-4248-a1ac-9667637f4398 = 是的,诺克斯这片区域在很久之前是我的地盘.
+a851c9a6-59d6-4248-a1ac-9667637f4398 = 是的,诺克斯很久之前是我的地盘.
 
 //2698. ORIGINAL [Red]: Now I want to get one thing straight.
-cfb0005f-4851-4d66-bfa8-2528460786fd = 现在我应该清楚的告诉你们.
+cfb0005f-4851-4d66-bfa8-2528460786fd = 我现在打算有话直说
 
 //2699. ORIGINAL [Red]: I've been watching this station all day, and I've been detecting some...
 364e49f9-d497-49d4-89f6-6ac65d54576d = 我一整天都在看这个电视台,我发现你们...
@@ -8129,10 +8129,10 @@ b9902114-baf8-4f80-bd41-1d56cb187393 = 这是一场公共卫生危机.
 a2f8dedb-958c-4e26-bb67-7d732581f9d3 = 那些孩子们做的事情完全正确.
 
 //2706. ORIGINAL [Red]: They created that event boundary in DAYS to protect me, and to protect you.
-169e3e5c-daa2-4c5e-9db7-4e0c440e3e85 = 他们在几天内创造了一个屏障来保护我们.
+169e3e5c-daa2-4c5e-9db7-4e0c440e3e85 = 他们在几天内创造了一个屏障来保护你我
 
 //2707. ORIGINAL [Red]: Do you even know what that involved?
-f429e631-9425-4601-bf5c-072bc2e63540 = 你知道这意味着什么吗？
+f429e631-9425-4601-bf5c-072bc2e63540 = 你知道这其中包含了多少工作吗？
 
 //2708. ORIGINAL [#FFFFC000]: But maybe if we had some more information, then...
 0ddd5434-44af-4533-af56-7f494898ecaf = 但是如果我们可以掌握更多的信息...
@@ -8162,7 +8162,7 @@ ef588453-4ccb-4c63-b003-341fed8d19ee = 但是已经有恐慌了,
 320d01a0-0ec7-4efd-a6b4-c2aaff20d55a = 好的.
 
 //2717. ORIGINAL [#FFFFC000]: Clearly this has taken place in an area that's close to your own heart.
-72f99ffa-c22a-4c5b-8c02-89e40a6ef9cb = 很明显你的心已经属于这个地方了
+72f99ffa-c22a-4c5b-8c02-89e40a6ef9cb = 显然这起事件发生在你非常关心的一个地方
 
 //2718. ORIGINAL [#FFFFC000]: It's well known that in the sixties this area was used for chemical testing.
 991e854d-aa7a-40b7-b15c-7ce91136a70d = 众所周知,在六十年代这个地区被用来做化学实验
@@ -8171,22 +8171,22 @@ ef588453-4ccb-4c63-b003-341fed8d19ee = 但是已经有恐慌了,
 24930fcb-a3ba-401e-8590-5eb7f96741a2 = 这个地区有实验室吗,还是.....
 
 //2720. ORIGINAL [Red]: I think I know what you're suggesting, and my answers are threefold.
-53c1f7a8-57a9-47a1-b488-e2c3db684399 = 我想我知道你想问什么,我的答案有三句话
+53c1f7a8-57a9-47a1-b488-e2c3db684399 = 我想我知道你在暗示什么,我的答案就三点
 
 //2721. ORIGINAL [Red]: First, that's classified.
-7c0a6dfb-3797-4022-9b20-8a3933dd6bc5 = 首先,这是机密
+7c0a6dfb-3797-4022-9b20-8a3933dd6bc5 = 第一点,那是机密
 
 //2722. ORIGINAL [Red]: Second, very clearly not.
-f9b6bd6e-6690-4583-b6e3-a170d254927c = 第二,很明显,不存在
+f9b6bd6e-6690-4583-b6e3-a170d254927c = 第二点,很明显,不存在
 
 //2723. ORIGINAL [Red]: Third, the Army is in the process of very effectively containing an outbreak of unknown origin.
-968d5575-2538-4a43-a406-002e6e3ca5a1 = 第三,军队正在非常有效地遏制一场来历不明的疫情.
+968d5575-2538-4a43-a406-002e6e3ca5a1 = 第三点,军队正非常有效地遏制一场来历不明的疫情.
 
 //2724. ORIGINAL [Red]: They demand RESPECT, not suspect... er...
-26ba1771-ba5f-42cd-97c3-b70ad43cf8b0 = 他们需要尊重,而不是怀疑...额....
+26ba1771-ba5f-42cd-97c3-b70ad43cf8b0 = 他们需要尊重,而不是...
 
 //2725. ORIGINAL [Red]: ... suspicion.
-4f651115-e00f-48f3-a579-c0db93290495 = .....怀疑
+4f651115-e00f-48f3-a579-c0db93290495 = ...怀疑
 
 //2726. ORIGINAL [#FFFFC000]: Okay. Thank you very much for joining me and talking...
 f4af2c13-ac08-4200-bcda-ef85f34407f7 = 好吧,非常感谢你能接受访谈...
@@ -8198,19 +8198,19 @@ f4af2c13-ac08-4200-bcda-ef85f34407f7 = 好吧,非常感谢你能接受访谈...
 f07652b1-7ec6-4d57-bffb-d101a0dcd374 = 这是我的荣幸
 
 //2729. ORIGINAL [#FF8080FF]: The Knox event IS contained: that's the word from Washington.
-3fef435c-24a6-4394-8c4e-ae5e37d28903 = 诺克斯事件被包含在内：这是来自华盛顿的消息
+3fef435c-24a6-4394-8c4e-ae5e37d28903 = “诺克斯事件已得到控制“，这是华盛顿方的说辞
 
 //2730. ORIGINAL [#FF8080FF]: Overnight there has been an apology for a 'lack of clarity', but...
-ee5945b2-e539-4fec-9c26-8fe014aeff1d = 一夜之间,有人为“不清楚”道歉,但是....
+ee5945b2-e539-4fec-9c26-8fe014aeff1d = 突然就有人为“信息不够透明”而致歉,然而...
 
 //2731. ORIGINAL [#FF8080FF]: ... civilian fatalities are NOT an ongoing concern.
-9c0bf710-500b-4e3d-9f47-4c868c043be0 = ... 民众的死亡并不是值得一直去关注它
+9c0bf710-500b-4e3d-9f47-4c868c043be0 = ... 民众的死亡却没有得到持续的关注
 
 //2732. ORIGINAL [#FF8080FF]: That's what we've been told, but is it enough for the crowds massing in Washington. Phil?
-ac0ccc58-45dd-4e51-931b-9e2a98b1cd61 = 这是我们被告知的,但这对聚集在华盛顿的人们来说足够了吗.菲尔？
+ac0ccc58-45dd-4e51-931b-9e2a98b1cd61 = 这是我们得到的消息,但这对聚集在华盛顿的人们来说足够了吗.菲尔？
 
 //2733. ORIGINAL [#FF00B050]: No Diane. No it is not.
-47f42352-607b-4126-9e98-918963394849 = 不,黛安.绝对不是这样.
+47f42352-607b-4126-9e98-918963394849 = 不,黛安.绝对不够.
 
 //2734. ORIGINAL [#FF00B050]: We've got some angry people here.
 f6bba9ac-7141-40e2-8fc1-5fd48ea1eaf5 = 我们这里有一群愤怒的人
@@ -8219,7 +8219,7 @@ f6bba9ac-7141-40e2-8fc1-5fd48ea1eaf5 = 我们这里有一群愤怒的人
 e1187759-abab-4018-b107-f252312c4746 = 他们愤怒的原因是他们认为自己并不知道事情的全部真相
 
 //2736. ORIGINAL [#FF00B050]: Security is high here today, Diane. Lots of uniforms, lots of nervous faces.
-e1e5aeb5-0555-48d7-b72c-998e4d5a83e4 = 天这里戒备森严,黛安.很多穿制服的人,很多紧张的面孔
+e1e5aeb5-0555-48d7-b72c-998e4d5a83e4 = 这里戒备森严,黛安.很多穿制服的人,很多紧张的面孔
 
 //2737. ORIGINAL [#FF8080FF]: Are we expecting any further statements from the President?
 64b42a4d-07b4-40e0-9f19-ba9844b81572 = 我们能够期待总统发表进一步声明吗？
@@ -8234,7 +8234,7 @@ d6a3a2f7-88d3-4041-9231-8d6c01f7273a = ....那里还有负责诺克斯事件的�
 1bb8edbb-5f6c-4019-91a4-276201c50e63 = 但如果我身后的这些民众采取了足够引起政府重视的行动呢？
 
 //2741. ORIGINAL [#FF00B050]: Who can say?
-ac40ea1c-4bf9-4fd2-90d1-ccefa34a5487 = 谁说的上呢？
+ac40ea1c-4bf9-4fd2-90d1-ccefa34a5487 = 谁又知道呢？
 
 //2742. ORIGINAL [#FF8080FF]: Okay well let's just hope they do that peacefully and calmly. Thank you Phil.
 1c9e0592-d727-44b0-add2-b57d33b66d26 = 好吧,那我们就只能希望他们能平和冷静地达到这些目的.谢谢你菲尔
@@ -8246,7 +8246,7 @@ ac40ea1c-4bf9-4fd2-90d1-ccefa34a5487 = 谁说的上呢？
 6fe7bc67-7266-4390-bdad-1099458e463a = ... 以官方身份参与到这次的军事活动的人.
 
 //2745. ORIGINAL [#FF8080FF]: We're promised full exposure, whatever that means, so keep with us throughout the day.
-35de3a37-d1a9-4451-bfc9-2ab4a5eb69ca = 我们承诺会全程直播,不管那意味着什么,所以他一整天都要和我们在一起.
+35de3a37-d1a9-4451-bfc9-2ab4a5eb69ca = 他承诺我们将会全面披露,不管那意味着什么,因此请全天锁定本台
 
 //2746. ORIGINAL [#FF8080FF]: A public demonstration in Washington turns ugly...
 6c57c99c-beea-4eaf-9437-3a153407e4f4 = 华盛顿的公众示威变得危险了起来...
@@ -8261,40 +8261,40 @@ e4a59bd1-f877-49f0-8499-d225c913edba = 这里是WBLN,插播一条最新消息.�
 2d59d0d2-d013-4255-913e-fa6a1a92e18c = 黛安,这里的人群非常不安
 
 //2750. ORIGINAL [#FF00B050]: What started as a peaceful protest of signs and hygiene masks...
-1abf668b-5343-4a85-b3f7-328e526837b2 = 一开始是和平抗议标志和医用口罩...
+1abf668b-5343-4a85-b3f7-328e526837b2 = 一开始还是充满标语和医用口罩的和平抗议...
 
 //2751. ORIGINAL [#FF00B050]: ... has turned ugly as the crowd clashed with a line of police officers.
-3231e42b-248e-4d7d-b14a-280105f43ea3 = ... 在人群与一队警察发生冲突时变得混乱不堪
+3231e42b-248e-4d7d-b14a-280105f43ea3 = ... 却在人群与一队警察发生冲突时变得混乱不堪
 
 //2752. ORIGINAL [#FF00B050]: These pictures show the moment an officer was struck by...
 db0607eb-bd26-4ebf-a7c6-1168e58c89c5 = 这些照片显示了一名军官被....
 
 //2753. ORIGINAL [#FF00B050]: ... a brick hurled from way back in the crowd.
-8be3a6f6-64c5-4645-8b1c-041dab1109f0 = ... 一块砖头从人群中扔了出来
+8be3a6f6-64c5-4645-8b1c-041dab1109f0 = ...人群中扔出来的砖头砸中
 
 //2754. ORIGINAL [#FF00B050]: Many arrests have been made here, but it feels like the start of a long evening.
-0e0207f8-245d-4492-a625-6fa74f8962c4 = 很多人在这里被捕,但感觉这又是一个慢慢长夜的开始
+0e0207f8-245d-4492-a625-6fa74f8962c4 = 已有多人被捕，但感觉这也许不过是慢慢长夜的开端而已
 
 //2755. ORIGINAL [#FF8080FF]: Thank you Phil. Now what's happening with you in Kentucky, Richard Gershwin?
-5c353b74-af31-4019-9c49-52c4be0a820d = 谢谢你菲尔.你在肯塔基州怎么了,理查德·格什温？
+5c353b74-af31-4019-9c49-52c4be0a820d = 感谢你的报导，菲尔。那么现在的肯塔基州有没有什么新消息呢，理查德·格什温？
 
 //2756. ORIGINAL [#FFFFC000]: Not far different Diane.
 d47dddb2-7e44-4369-a251-907a9354332e = 目前没什么变化,黛安.
 
 //2757. ORIGINAL [#FFFFC000]: Now we've had a lot of low-flying aircraft taking off today...
-00669c3a-ac36-4755-99ec-d6bbde354f44 = 今天有很多低空飞行的飞机从这里经过....
+00669c3a-ac36-4755-99ec-d6bbde354f44 = 今天有很多低空飞行的飞机在这一带起飞...
 
 //2758. ORIGINAL [#FFFFC000]: ... some from inside the Exclusion Zone.
-5d1410cd-342f-4ddc-a60b-09c0b606086a = ...有一些是从隔离区方向过来的
+5d1410cd-342f-4ddc-a60b-09c0b606086a = ...有一些是从隔离区内起飞的
 
 //2759. ORIGINAL [#FFFFC000]: Please excuse any noise.
-345bee35-be6a-4aa4-8b8c-6241359fcdf3 = 我很抱歉,这里的噪音很大
+345bee35-be6a-4aa4-8b8c-6241359fcdf3 = 很抱歉,这里的噪音很大
 
 //2760. ORIGINAL [#FF8080FF]: That's clearly okay Phil. We heard... unsettling reports.
 cad763c4-8c80-4175-912a-677e04b9f4f0 = 没关系,菲尔.我们听到了一些....很让人不安的报道
 
 //2761. ORIGINAL [#FFFFC000]: Food for displaced folk has been coming in, but it hasn't been enough.
-1f133037-140e-444a-ab20-a397812b43f4 = 虽然现在已经开始为无家可归的提供食物供给,但是数量还远远不够
+1f133037-140e-444a-ab20-a397812b43f4 = 虽然现在已经开始为被迫离家的人提供食物供给,但数量还远远不够
 
 //2762. ORIGINAL [#FFFFC000]: People are sleeping rough, and the military are making it tough for them to get away.
 ed7f5299-94e5-4033-a2c8-82611689af75 =人们露宿街头,军方禁止任何人从这里离开
@@ -8315,10 +8315,10 @@ a6a6ad4d-a6c2-4cc5-ac5b-75d5442505e3 = 我们听说有人和军方爆发了冲�
 921fe653-dfd5-4381-9891-3e2839ad286e = 不,没有发生那样的事情,暂时还没有.
 
 //2768. ORIGINAL [#FFFFC000]: But this is Kentucky, people are scared...
-2a48e3df-d549-453f-becf-ee196873752b = 但是在肯塔基州,人们都很害怕...
+2a48e3df-d549-453f-becf-ee196873752b = 可这里是肯塔基州,人们都很害怕...
 
 //2769. ORIGINAL [#FFFFC000]: ... and people have guns. It's a powder keg situation, Diane.
-43c3c1e6-32f8-41fc-8193-19d7cd129b9f = ...这里的人们都持有枪支,现在这简直就是一个火药桶.黛安
+43c3c1e6-32f8-41fc-8193-19d7cd129b9f = ...而且人们都持有枪支,局面就像火药桶一触即发，黛安
 
 //2770. ORIGINAL [#FF8080FF]: Thank you Richard. Keep the reports coming.
 3f18f815-7017-41b2-ad00-6ddea2a2b19d = 谢谢你理查德,随时报告最新情况
@@ -8333,10 +8333,10 @@ eaa3d6aa-1fe4-4939-b5e4-2af4be39fa37 = 我和杰克·威尔逊教授在一起
 f1f92247-4fda-41ed-83d7-f48170c0da38 = 威尔逊教授是一位军方的科学家
 
 //2774. ORIGINAL [#FF8080FF]: ... and you might have seen him and his colleagues in the media today.
-206f721e-93e5-4660-b770-bc0c78f9ed33 = ...你今天可能会在媒体上看到他和他的同事
+206f721e-93e5-4660-b770-bc0c78f9ed33 = ...你今天可能已经在媒体上看到了他和他的同事
 
 //2775. ORIGINAL [#FF8080FF]: Professor Wilson, you've been given a far easier ride in interviews today than you deserve.
-8be8aec3-c4e5-4332-8172-53aca1364630 = 威尔逊教授,今天的采访应该比平时那些要轻松一些
+8be8aec3-c4e5-4332-8172-53aca1364630 = 威尔逊教授,今天的采访相比而言可要轻松得太多了
 
 //2776. ORIGINAL [#FF8080FF]: Just what the hell is going on in there?
 74e65b08-2ed0-4cc0-b149-92f68d7e5063 = 现在到底是怎么回事？
@@ -8351,40 +8351,40 @@ f1f92247-4fda-41ed-83d7-f48170c0da38 = 威尔逊教授是一位军方的科学�
 d7f92be7-848e-4169-9fa8-220f843e00f9 = 知道,我知道,因为今天早上我听到你对NNR说了同样的话
 
 //2780. ORIGINAL [#FF00B050]: Transmission has slowed, but the situation remains volatile, Diane.
-01d81f46-6c12-439d-9b7c-f92503da5a45 = 疫情传播速度减慢了,但情况仍然不稳定,黛安
+01d81f46-6c12-439d-9b7c-f92503da5a45 = 疫情传播速度减慢了,但整体局面仍然不稳定,黛安
 
 //2781. ORIGINAL [#FF8080FF]: Is there anything, anything at all, you want to tell me that we don't already know?
-089e9301-215b-4216-9b80-91052963612b = 你说的所有东西,你说过的所有话,你认为我们什么都不清楚么？
+089e9301-215b-4216-9b80-91052963612b = 你今天想说的内容，有没有任何一丁点是我们还不知道的呢？
 
 //2782. ORIGINAL [#FF00B050]: Er, only that we have no reason to believe they won't recover.
-41c3da74-7a32-4757-9b7f-8c1d4cc2deff = 呃,只是我们没有理由相信他们不会康复
+41c3da74-7a32-4757-9b7f-8c1d4cc2deff = 呃,只能说目前没有理由去认为患者不会康复
 
 //2783. ORIGINAL [#FF8080FF]: I believe... the NATION believes... that you are withholding information.
-c0294f92-cd49-40e8-8760-9a73b973c6ad = 我认为...所有人都认为...你隐瞒的真实的情况.
+c0294f92-cd49-40e8-8760-9a73b973c6ad = 我认为...全国人民都认为...你并没有将事实和盘托出
 
 //2784. ORIGINAL [#FF8080FF]: They believe you are refusing to address the issue...
-51eea6c4-bc68-4b00-95d5-642064824a35 = 他们认为你拒绝做出解释....
+51eea6c4-bc68-4b00-95d5-642064824a35 = 他们认为因军方涉及到此事和这片地区..
 
 //2785. ORIGINAL [#FF8080FF]: ... because of the military sensitivity of both the issue AND the region involved.
-366ff069-da46-4ad5-b0d2-f05d47daa65f = ... 因为这个问题和所涉地区的军事机密
+366ff069-da46-4ad5-b0d2-f05d47daa65f = ...你顾忌敏感而拒绝就此事作出说明
 
 //2786. ORIGINAL [#FF8080FF]: Is that true?
-afa4f622-2797-4f11-b4d7-e4e6259cccaf = 我说的对么？
+afa4f622-2797-4f11-b4d7-e4e6259cccaf = 是这样吗？
 
 //2787. ORIGINAL [#FF00B050]: I'm truly sorry but I'm a disease analysis scientist. I analyse and report not...
-5c509796-590a-4add-ae9c-9cb16eeefe0e = 我真的很抱歉,但我是一个疾病分析专家.我分析和报告不是......
+5c509796-590a-4add-ae9c-9cb16eeefe0e = 我真的很抱歉,但我只是一个疾病分析专家.我分析和报告，我不......
 
 //2788. ORIGINAL [#FF8080FF]: Then tell us some science!
 c21a9a51-7d11-4331-9600-18cacbf304e6 = 那就给我们说点专业的东西吧！
 
 //2789. ORIGINAL [#FF00B050]: Listen, we've got some of the best guys looking at samples.
-cd43c326-2ee7-4d64-89c1-7a4165d892de = 听着,我们有一些专业的人在分析样品
+cd43c326-2ee7-4d64-89c1-7a4165d892de = 听着,我们有有最好的专业人员解析病毒样本
 
 //2790. ORIGINAL [#FF00B050]: People are confused in there. They are distressed.
 5a9105c8-62a2-48b5-a43f-eae135dcc474 = 虽然他们目前对于分析过程感到困惑和苦恼.
 
 //2791. ORIGINAL [#FF00B050]: Currently we have NO reason to believe they won't recover.
-ae278535-c995-440f-8dcc-e59adadca5e5 = 但是目前我们没有理由相信他们不会康复
+ae278535-c995-440f-8dcc-e59adadca5e5 = 但是目前我们没有理由认为患者无法康复
 
 //2792. ORIGINAL [#FF8080FF]: Should we be afraid?
 107e4ecb-57be-46e0-8daf-400f29e45d2c = 那么我们应该害怕吗？
@@ -8411,22 +8411,22 @@ d3cdae7d-0269-4c21-9dc5-c60e7fe39835 = 这次采访是在我们看到的令人�
 52f83c9f-2e67-42f3-a326-76c78d9f650a = 首先,感谢您在这么忙的时候接受我们的采访
 
 //2800. ORIGINAL [#FF00B050]: That's perfectly okay - truth be told it's the guys on the ground with their hands full.
-523bc4f1-82a5-49ce-93d0-76b26076b789 = 没关系的,说实话是那些人在上面忙得不可开交
+523bc4f1-82a5-49ce-93d0-76b26076b789 = 没关系的 - 说实话是那些在现场的人才忙得不可开交
 
 //2801. ORIGINAL [#FFFFC000]: We've seen footage of the demonstrations nationwide...
-68a971cd-73be-4613-bee2-fba8312c11b6 = 我们看过全国示威的录像...
+68a971cd-73be-4613-bee2-fba8312c11b6 = 我们看到了全国各地示威的录像...
 
 //2802. ORIGINAL [#FFFFC000]: ...some of our viewers might even have been part of them.
-2b1346ac-b134-4743-b692-35f9cd2cdadd = ……我们的一些观众甚至可能是其中一员
+2b1346ac-b134-4743-b692-35f9cd2cdadd = ...甚至可能有些观众参与其中
 
 //2803. ORIGINAL [#FFFFC000]: What do you say to them?
-ba35a8f8-3fb4-49d7-8c34-cee6aaa08298 = 你有什么想和他们说的么？
+ba35a8f8-3fb4-49d7-8c34-cee6aaa08298 = 你有什么想对他们说的吗？
 
 //2804. ORIGINAL [#FF00B050]: We know you're angry. We know you're frustrated.
-221ae1e4-3976-4e71-9f38-506d431d17a5 = 我们知道你们很愤怒,我们也知道你们很沮丧
+221ae1e4-3976-4e71-9f38-506d431d17a5 = 我们知道你们很愤怒,也知道你们很沮丧
 
 //2805. ORIGINAL [#FF00B050]: So are we.
-80fa31f6-5af4-4396-934f-33fad2318765 = 因为我们也是.
+80fa31f6-5af4-4396-934f-33fad2318765 = 我们也是如此
 
 //2806. ORIGINAL [#FF00B050]: There is however a line we're seeing crossed.
 71d81b0f-33d0-4fbd-8d0f-5056b843cc08 = 但是法律的界线不可以被逾越
@@ -8438,25 +8438,25 @@ ba35a8f8-3fb4-49d7-8c34-cee6aaa08298 = 你有什么想和他们说的么？
 b02405cf-02e4-4066-bf9e-9b4d0ff7de40 = 很明显,有些人并不想要和平共处
 
 //2809. ORIGINAL [#FFFFC000]: So you're saying: stay away?
-5f327252-4813-44f3-84e0-bade461c6e0e = 所以你是想说：“给老子滚远点”？
+5f327252-4813-44f3-84e0-bade461c6e0e = 所以你是想说：“切勿参与”？
 
 //2810. ORIGINAL [#FF00B050]: I'm saying: act responsibly.
-71504778-d09c-4e77-99d1-f01e21a61e16 = 我的意思是：我们会采取负责任地行动
+71504778-d09c-4e77-99d1-f01e21a61e16 = 我的意思是：合理行动
 
 //2811. ORIGINAL [#FF00B050]: The Knox Event has us all wired up.
 3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = 诺克斯事件让我们都连在了一起
 
 //2812. ORIGINAL [#FF00B050]: But listen to what we're being told.
-03ee6e23-5392-4e21-85f6-4ade1cfb1032 = 但是我听说
+03ee6e23-5392-4e21-85f6-4ade1cfb1032 = 听一听我们被告知的吧
 
 //2813. ORIGINAL [#FF00B050]: You don't have to stockpile food.
-dbf5883d-fe38-4e84-93f8-25d4032ceabd = 你不必囤积食物
+dbf5883d-fe38-4e84-93f8-25d4032ceabd = 不必囤积食物
 
 //2814. ORIGINAL [#FF00B050]: If you are not in the direct vicinity of the Event line, you are not in danger.
-6034ab7c-ce69-404f-82c2-610998e2e0af = 如果你不在封锁线的附近,你就没有危险
+6034ab7c-ce69-404f-82c2-610998e2e0af = 如果不在封锁线的附近,就没有危险
 
 //2815. ORIGINAL [#FFFFC000]: We're hearing a lot of talk about curfews if public order continues to deteriorate.
-b64b7cb3-7f0b-41b8-90cb-18b3a73c6c24 = 我们听到很多关于如果公共秩序继续恶化就实行宵禁的言论
+b64b7cb3-7f0b-41b8-90cb-18b3a73c6c24 = 我们听说，如果公共秩序持续恶化，将会实行宵禁
 
 //2816. ORIGINAL [#FFFFC000]: Any truth in that?
 beb6023d-3ac5-42b2-a356-33729ffa35c9 = 是真的么？
@@ -8480,13 +8480,13 @@ e441f9ac-6852-4ef2-9ead-403aa5bee5e5 = 我们正在考虑所有可能发生的�
 56748274-79f9-479d-99a2-b805c378bd39 = ... 在今晚的暴力抗议活动发生之前
 
 //2823. ORIGINAL [#FF8080FF]: The President has spoken out after public anger...
-db808456-0f33-43ab-8d7a-f158c4d62720 = 总统在当晚的抗议活动发生后发表了申明....
+db808456-0f33-43ab-8d7a-f158c4d62720 = 在群情激奋演变为一个暴力的夜晚之后...
 
 //2824. ORIGINAL [#FF8080FF]: ... turned into a night of violence.
-53a34f03-45f3-4d3c-8bcb-1855dfca7d18 = ... 一个暴力之夜.
+53a34f03-45f3-4d3c-8bcb-1855dfca7d18 = 总统发表声明
 
 //2825. ORIGINAL [#FF8080FF]: We'll hear from Washington and LA as soon as we can, but first...
-bdca7d71-667a-4ea1-b340-47d969795ff9 = 我们会尽快收到华盛顿和洛杉矶的消息,但首先.....
+bdca7d71-667a-4ea1-b340-47d969795ff9 = 我们会尽快收到华盛顿和洛杉矶方面的最新消息,但首先.....
 
 //2826. ORIGINAL [#FF8080FF]: ... this is direct from the White House.
 87cd3141-f671-4c70-bb6b-5cf2fe5377b1 = ... 这条消息是从白宫直接发来的
@@ -8507,7 +8507,7 @@ bdca7d71-667a-4ea1-b340-47d969795ff9 = 我们会尽快收到华盛顿和洛杉�
 bad8e381-4b9e-4cc4-9c45-fea75162588e = 很多人被捕了.
 
 //2832. ORIGINAL [#FF8080FF]: We'll have all the latest, coming up after this.
-d9d14a4b-ed10-4a58-9111-8554c8810415 = 然而,在这之前的一条消息
+d9d14a4b-ed10-4a58-9111-8554c8810415 = 我们将持续为您播报最新消息
 
 //2833. ORIGINAL [#FF8080FF]: After 6pm EST tonight: all flights are off.
 263c9bde-29ea-454d-bb6a-2851397b6e35 = 今晚美国东部时间下午6点以后：所有航班都将停飞
@@ -8516,49 +8516,49 @@ d9d14a4b-ed10-4a58-9111-8554c8810415 = 然而,在这之前的一条消息
 096fc094-5c10-45d5-91e6-730b3d1fe41d = 所有的航班,无论是飞往国内的还是国外的..
 
 //2835. ORIGINAL [#FF8080FF]: This: at the request of the World Health Organisation...
-fa2b91eb-9d5e-498d-9264-443a7b227132 = 这是：应世界卫生组织的要求....
+fa2b91eb-9d5e-498d-9264-443a7b227132 = 这是应世界卫生组织的要求...
 
 //2836. ORIGINAL [#FF8080FF]: ... who in recent days have been demanding clarity over the Knox Event.
 9b2941ab-f05f-4edf-9673-7c333310a20c = ... 世界卫生组织最近几天一直要求军方澄清诺克斯事件
 
 //2837. ORIGINAL [#FF8080FF]: Airline companies have been universally compliant.
-424acbca-ae5b-41e1-9700-bf0ca1a882b9 = 航空公司已经普遍听从建议停止航班
+424acbca-ae5b-41e1-9700-bf0ca1a882b9 = 所有航空公司均已听从建议停航
 
 //2838. ORIGINAL [#FF8080FF]: Speaking immediately after his press conference on last night's violence...
-53f05121-5196-41b6-83f8-97292cf618ff = 他们在记者招待会上就昨晚的暴力事件发表讲话..
+53f05121-5196-41b6-83f8-97292cf618ff = 在就昨晚暴力之夜所召开的新闻发布会结束不久后...
 
 //2839. ORIGINAL [#FF8080FF]: ...The President expressed dissatisfaction at the WHO's unprecedented demands.
-ea4214bf-05a4-4220-9db7-fb4d141f3778 = ……总统对世卫组织前所未有的要求表示不满
+ea4214bf-05a4-4220-9db7-fb4d141f3778 = ...总统就对世卫组织前所未有的要求表示不满
 
 //2840. ORIGINAL [#FF00B0F0]: ... the Knox Event is, to all intents of purpose, contained.
-02934865-1627-4387-84da-a7a67cab9801 =....针对此前发生的所有事情,包括诺克斯事件.
+02934865-1627-4387-84da-a7a67cab9801 = 诺克斯事件已事实上得到全面控制
 
 //2841. ORIGINAL [#FF8080FF]: We'll be updating you throughout the day.
 c8c5134b-77f5-4294-a5ae-f7a6168a9b00 = 我们会全天候为您更新消息
 
 //2842. ORIGINAL [#FF8080FF]: As of 6pm EST all mainland flights have been grounded.
-e4907869-f718-4cf3-982d-bb3040e81fc3 = 截至美国东部时间下午6点,所有大陆航班已停飞
+e4907869-f718-4cf3-982d-bb3040e81fc3 = 截至美国东部时间下午6点,所有国内航班已停飞
 
 //2843. ORIGINAL [#FF8080FF]: Meanwhile tonight we're seeing military support in our cities...
-863e3b45-f8a4-40c2-b836-e4061095d33f = 同时,今晚我们将看到有军方正在进入城市
+863e3b45-f8a4-40c2-b836-e4061095d33f = 同时,今晚我们看到有军方进入城市
 
 //2844. ORIGINAL [#FF8080FF]: ... as law enforcement officials seek to avoid a repercussion...
-2e2cf9bf-d057-4f6e-b4f0-ec43e9583133 = ... 执法人员正在试图避免冲突
+2e2cf9bf-d057-4f6e-b4f0-ec43e9583133 = ...执法人员试图避免...
 
 //2845. ORIGINAL [#FF8080FF]: ... of last night's senseless violence.
-a0908f23-7ad4-4027-8108-3be3408d4ae7 = ... 比如昨晚毫无意义的暴力活动
+a0908f23-7ad4-4027-8108-3be3408d4ae7 = ... 如昨晚那样毫无意义的暴力冲突
 
 //2846. ORIGINAL [#FF8080FF]: All this after the President sought to calm fears at home and abroad.
-c5843430-18f2-462f-af64-6b89694653b3 = 这一切都发生在总统试图平息国内外的恐惧之后
+c5843430-18f2-462f-af64-6b89694653b3 = 而这一切都发生在总统试图平息国内外的恐惧之后
 
 //2847. ORIGINAL [#FF8080FF]: And what's happening on the ground in Kentucky, Richard Gershwin?
-cb5a0902-a9cf-43e2-99c5-35d47cbadba5 = 现在肯塔基州发生了什么事,理查德·格什温？
+cb5a0902-a9cf-43e2-99c5-35d47cbadba5 = 现在肯塔基州当地情况如何呢,理查德·格什温？
 
 //2848. ORIGINAL [#FF00B050]: I think I'm seeing those procedures in action, Diane.
-16886b89-b029-4909-8ca6-9049b38225b3 = 黛安,我想我看到了刚才说的那些措施正在实施
+16886b89-b029-4909-8ca6-9049b38225b3 = 黛安,我亲眼看到军方执行措施
 
 //2849. ORIGINAL [#FF00B050]: The Army are widening the exclusion zone.
-e111f7f2-5e21-4005-9fe1-55822313aca4 = 军方正在扩大隔离区域
+e111f7f2-5e21-4005-9fe1-55822313aca4 = 他们正在扩大隔离区域
 
 //2850. ORIGINAL [#FF00B050]: We've been told this is to: 'remove any element of doubt'...
 a5cd6429-d856-4662-9729-c9175f237540 = 我们被告知这是为了：“消除任何风险因素”
@@ -8570,7 +8570,7 @@ ae965b31-6100-4472-b897-28b236771fd1 = ... 并对事件做出“安全和负责�
 57752c62-6544-4f8d-845a-d28a7afc2941 = 这里有很多人不想离开....
 
 //2853. ORIGINAL [#FF00B050]: ... but they're not the ones with Armored Personnel Carriers.
-7218444a-40f5-4b4f-8358-ba3186ac7b7a = ... 但他们没有装甲运兵车
+7218444a-40f5-4b4f-8358-ba3186ac7b7a = ...但他们并不是拥有装甲车的那一方
 
 //2854. ORIGINAL [#FF00B050]: I'll check in when I have more to report Diane.
 c7d09e1d-59af-44fb-b753-9697629eafcc = 有最新情况我会第一时间通报,黛安.
@@ -8690,13 +8690,13 @@ dbe1dc15-daab-4e0d-b8e0-87f0ff84852a = ..所有主要城市的宵禁时间都是
 9c041619-2a80-4f66-9207-155304443f30 = 菲尔·哈图普在华盛顿报道.
 
 //2893. ORIGINAL [#FF00B050]: Thank you Diane. Shocking revelations here, as the President...
-316ec741-edb5-4db9-ab16-d877bb0861ee = 谢谢你,黛安.这是令人震惊的爆料,作为总统..
+316ec741-edb5-4db9-ab16-d877bb0861ee = 谢谢你,黛安.在总统...对“缺乏沟通”
 
 //2894. ORIGINAL [#FF00B050]: ... 'accepts responsibility' for the 'perceived lack of communication'.
-2232795c-2532-4be4-bbdb-72b19f3d89ae = 应该对“明显缺乏沟通”承担相应的责任.
+2232795c-2532-4be4-bbdb-72b19f3d89ae = 表示“承担责任”后...这是令人震惊的爆料
 
 //2895. ORIGINAL [#FF00B050]: Meanwhile, is hope waning for those left inside the Event Zone?
-52b72727-6ed1-478e-ba58-e20a2722ed1b = 与此同时,对于那些留在活动区内的人来说,希望是不是越来越渺茫了？
+52b72727-6ed1-478e-ba58-e20a2722ed1b = 与此同时,对于那些留在隔离区内的人来说,希望是不是越来越渺茫了？
 
 //2896. ORIGINAL [#FF00B050]: That was the President, speaking this morning.
 c236460a-7cd0-4fa9-b3db-4a63ac4d3311 = 这是总统今天早上的讲话.
@@ -8729,7 +8729,7 @@ db8cef61-b3a3-43b0-8dce-98c83c401d99 = 突发新闻,我们有一些诺克斯事�
 193cf3b9-f332-41d3-9fb8-166995001587 = 照片令人不适,如果你房间里有孩子的话...
 
 //2906. ORIGINAL [#FF8080FF]: ... just don't let them see.
-80405712-a993-491f-b85f-f8bdf479fb4c = 别让他们看到就行了.
+80405712-a993-491f-b85f-f8bdf479fb4c = 请勿让他们看到
 
 //2907. ORIGINAL [#FF8080FF]: Yesterday The President stated that recovery was possible, yet increasingly unlikely.
 b4360448-8119-4753-899c-ce89de53b947 = 昨天,总统表示经济复苏是可能的,但可能性越来越小.
@@ -8768,13 +8768,13 @@ d89c583e-6230-44f7-a217-4c79b1a5307f = 目前还没有官方声明.
 d9ba2ef5-4c6d-4561-bf9d-a2a183bbb1ce = 为什么要说恐慌和困惑,而实际上还有更多的东西呢？
 
 //2919. ORIGINAL [#FF8080FF]: This revelation isn't going to help in stemming the riots Richard.
-a805b99c-e069-494e-8a1b-cd9c53ed43aa = 这种启示对阻止理查德的暴动毫无帮助.
+a805b99c-e069-494e-8a1b-cd9c53ed43aa = 理查德，这样的新闻对平息暴乱毫无帮助
 
 //2920. ORIGINAL [#FF00B050]: No Diane. It is not.
-169e8031-486c-47b0-8067-74b2a0fca4bc = 不,戴安.事实并非如此！
+169e8031-486c-47b0-8067-74b2a0fca4bc = 是的，戴安，确实没有帮助
 
 //2921. ORIGINAL [#FF00B050]: People here... they're...
-566f0909-a8d5-4592-aab5-f6b5f8f49600 = 这里的人..他们是....
+566f0909-a8d5-4592-aab5-f6b5f8f49600 = 但这里的人..他们....
 
 //2922. ORIGINAL [#FF8080FF]: Fuck McGrew! FUCK HIS LIES!
 312e68fa-4bcb-4612-b0a0-d296f0005b13 = 去他妈的麦格鲁！去他妈的谎言！
@@ -8795,37 +8795,37 @@ a15eb724-c873-4d7c-8979-004582c9fd2f = <嘶嘶..>
 ef84e18a-48f1-4908-b022-95d273de6263 =<呲呲..>罗曼.德龙 <嘶嘶..>
 
 //2928. ORIGINAL [#FF8080FF]: After last night's outage it's been a period of revelation.
-bc1748b4-5d3d-4531-b982-b73ffae9c94d = 经过昨晚的停电,
+bc1748b4-5d3d-4531-b982-b73ffae9c94d = 经过昨晚的停电,已经有段时间没更新消息了
 
 //2929. ORIGINAL [#FF8080FF]: Still: no word from The White House or General John McGrew...
-4218114a-46c1-4456-8260-d95727c3dc33 = 尽管如此：白宫或约翰·麦格罗将军都没有消息.
+4218114a-46c1-4456-8260-d95727c3dc33 = 可依然没有来自白宫或约翰·麦格罗将军的消息.
 
 //2930. ORIGINAL [#FF8080FF]: ... as survivors from INSIDE the Exclusion Zone emerge.
-01b90842-937c-44e0-ad03-31bcd37668d2 = .来自隔离区内的幸存者涌现.
+01b90842-937c-44e0-ad03-31bcd37668d2 = ...当来自隔离区内生还者出现的时候
 
 //2931. ORIGINAL [#FF8080FF]: There have been joyful reunions, tempered by shock and dismay.
-01430d84-22fd-48e9-b287-157579e68482 = 他们曾有过的希望,但仍被恐惧和沮丧所击败
+01430d84-22fd-48e9-b287-157579e68482 = 我们看到了欢聚，虽仍被恐惧和沮丧所击败
 
 //2932. ORIGINAL [#FF8080FF]: Richard Gershwin, just what in God's name is going on?
 65b70208-fd7e-48b7-8bf4-837fd52682fc = 理查德·格什温,到底是怎么回事？
 
 //2933. ORIGINAL [#FF00B050]: The picture that's being painted for us isn't pretty, Diane.
-c5798037-67c2-4758-b919-687d5563af22 = 戴安,为我们画的这幅画并不漂亮.
+c5798037-67c2-4758-b919-687d5563af22 = 戴安,为我们所描述的这幅场景可不好看
 
 //2934. ORIGINAL [#FF00B050]: These people have been released from a military camp inside the Zone.
 06b4cdc2-1202-4cbe-a26a-83eeeab9c09b = 这些人已经从隔离区内的一个军营获得释放.
 
 //2935. ORIGINAL [#FF00B050]: They were held against their will...
-0c54c286-3087-4390-8a36-951568961556 = 他们是在违背自己意愿的情况下被关押的.
+0c54c286-3087-4390-8a36-951568961556 = 他们是在违背自己意愿的情况以某种隔离的名义...
 
 //2936. ORIGINAL [#FF00B050]: ... in some kind of quarantine. An isolation of some sort.
-e66a62ba-d2ad-487d-886a-236c3c638540 = ..在某种隔离中.某种与世隔绝的状态.
+e66a62ba-d2ad-487d-886a-236c3c638540 = ...被关押的.是某种别样的与世隔绝
 
 //2937. ORIGINAL [#FF8080FF]: And the Knox Event infection itself?
-1fbd0295-52fe-43c3-8aaf-94a8a22f7a6c = 诺克斯事件感染本身呢？
+1fbd0295-52fe-43c3-8aaf-94a8a22f7a6c = 那么诺克斯事件感染本身呢？
 
 //2938. ORIGINAL [#FF00B050]: Bad things.
-3909e823-d990-4e33-a815-c75f6e032a42 = 那些不好的事情.
+3909e823-d990-4e33-a815-c75f6e032a42 = 情况很糟糕
 
 //2939. ORIGINAL [#FF00B050]: The infection rate in the towns of Muldraugh and West Point is total.
 79c8c2dc-2502-4dfc-9db7-c5309130d879 = 马镇和西点的感染率是最高的
@@ -8834,7 +8834,7 @@ e66a62ba-d2ad-487d-886a-236c3c638540 = ..在某种隔离中.某种与世隔绝�
 6bb4e76b-9736-4816-90ba-078bf4817508 = 患者的行为就像..猛兽.
 
 //2941. ORIGINAL [#FF00B050]: They bite, they maul...
-416219ec-b4ab-42a4-a8a3-386937f50e0b = 它们咬人,它们咬人...
+416219ec-b4ab-42a4-a8a3-386937f50e0b = 它们咬人,抓伤人...
 
 //2942. ORIGINAL [#FF00B050]: I'm sorry. I'm sorry. It's just...
 1ae6eab4-7806-462c-986e-7bbe88515faf = 对不起,抱歉.这实在是...
@@ -8876,13 +8876,13 @@ ccbf1621-104d-47f0-914f-c47dabaa16ab = 他们已经被军队放行了,我们不�
 890f6c86-6723-4e3b-b19b-e59f37705768 = ...某种隔离.
 
 //2955. ORIGINAL [#FF00B050]: They are scared, hungry and come with shocking revelations.
-91591fed-3123-4654-8029-297d8d14a290 = 他们又害怕又饿,带着令人恐惧令人悲痛的表情而来.
+91591fed-3123-4654-8029-297d8d14a290 = 他们又害怕又饿,带着令人震惊的消息而来
 
 //2956. ORIGINAL [#FF00B050]: First came the fever, then came violence and a hunger for blood.
 a9b07fea-4c6a-4b05-baee-bd7811fb3807 = 先是发烧,然后是暴力和嗜血.
 
 //2957. ORIGINAL [#FF00B050]: This community was held, and tested upon.
-5472625e-24a5-40fb-93e2-1d38c285b698 = 这个社区被举行,并在其上进行测试.
+5472625e-24a5-40fb-93e2-1d38c285b698 = 这片社区被封闭了，并已接受检测
 
 //2958. ORIGINAL [#FF00B050]: Not all are with us now.
 abede077-0176-4a28-872b-69cf73c91707 = 现在不是所有人都和我们在一起.
@@ -8930,16 +8930,16 @@ e0f43cae-7d7c-4056-9502-c362143b5d5c = 这是理查德·格什温,我身后是�
 8d1c9045-08ad-4f9c-a795-c5aa40820c3c = 噢！我们正在做.
 
 //2973. ORIGINAL [Red]: Thank you for attending tonight. I only ask for orderly and responsible journalism.
-5604e9d2-26f2-48c2-90d8-841328c6f149 = 感谢您今晚的出席.我期待着有秩序和负责任的新闻报道.
+5604e9d2-26f2-48c2-90d8-841328c6f149 = 感谢您今晚的出席.我只求有秩序和负责任的新闻报道.
 
 //2974. ORIGINAL [Red]: I have requested that this broadcast play on all media channels embedded with my troops.
 3ca24d1f-240d-49e2-b35e-597dbe6328a8 = 我已请求在我部队所有媒体频道播放这个电台.
 
 //2975. ORIGINAL [#FF00B050]: General! General!
-f9e10857-2306-4a04-b56f-0f747e88e7be = 全体人员！全体人员！
+f9e10857-2306-4a04-b56f-0f747e88e7be = 将军！将军！
 
 //2976. ORIGINAL [Red]: I said no questions Richard! When we have news you'll hear it.
-58338de1-50ed-4311-b94e-cc511e2a8d56 = 我说过不要问理查德！当我们有消息时,你会听到的.
+58338de1-50ed-4311-b94e-cc511e2a8d56 = 我说过不要问问题，理查德！当我们有消息时,你会听到的.
 
 //2977. ORIGINAL [#FFFFC000]: After shocking recent events we've been asking questions.
 a073173d-d56b-4ddf-886f-a096dc3219a9 = 在最近令人震惊的事件发生之后,我们一直在问问题.
@@ -8957,7 +8957,7 @@ e25e6e27-1001-41ad-80c1-e1a468fe55a9 = 今晚和我在一起的是彼得·恩斯
 0e169720-c79b-48c6-8834-f36a652dd500 = 我已经警告人们好几年了
 
 //2982. ORIGINAL [#FF00B050]: It's in the meat.
-6bcc7097-0ad8-4021-b95c-0e5640eee581 = 它在肉里
+6bcc7097-0ad8-4021-b95c-0e5640eee581 = 问题就出在肉里
 
 //2983. ORIGINAL [#FF00B050]: We've been feeding our cows on their own kind.
 90a06275-f06f-4384-bb5a-1431206a2899 = 我们用牛来喂养我们饲养的牛
@@ -8978,16 +8978,16 @@ c615c381-d028-4520-9653-4ec8f73a7b3d = 这已经比较清晰了, 是神经系统
 e1fb5f47-ce6c-4bc1-ac0e-0f1be39356b5 = 这就是疯牛病危机, 或者至少是下一个阶段
 
 //2989. ORIGINAL [#FF00B050]: We've all been ingesting it for years.
-fffcbe71-dccf-40a3-a776-e79b3dcfb8d2 = 我们已经调查这个数年了
+fffcbe71-dccf-40a3-a776-e79b3dcfb8d2 = 我们已经摄入这个物质数年了
 
 //2990. ORIGINAL [#FF00B050]: Every trip to Spiffos. Every pot roast.
-f000c8d8-fe06-479a-b0b9-9ad4636d20e3 =斯皮福餐厅的烤肉
+f000c8d8-fe06-479a-b0b9-9ad4636d20e3 = 每一次去斯皮福餐厅，每一次吃烤牛肉
 
 //2991. ORIGINAL [#FF00B050]: It's lain dormant, and now the Knox Event has set it free.
-8df463f6-6bbf-4e16-b643-f54faa0568a9 = 就是因为烤肉引发了“诺克斯事件”
+8df463f6-6bbf-4e16-b643-f54faa0568a9 = 病毒处在潜伏状态，而“诺克斯事件”则使它彻底爆发开来
 
 //2992. ORIGINAL [#FF8080FF]: Do you have evidence for this?
-c05b044c-5821-4410-9d54-5b2712976af5 = 你有关于这个的任何证据吗 ？
+c05b044c-5821-4410-9d54-5b2712976af5 = 你有相关证据吗 ？
 
 //2993. ORIGINAL [#FF00B050]: I've got this whole book!
 e49397fd-74fe-43fd-a400-8c78e14d8f35 = 我把这些都写成一本书了
@@ -8999,19 +8999,19 @@ e49397fd-74fe-43fd-a400-8c78e14d8f35 = 我把这些都写成一本书了
 313b69b8-8363-4efa-adae-2aca3c304300 = 我们国家所吃的东西有着无数的潜在问题！
 
 //2996. ORIGINAL [#FF8080FF]: It's certainly a theory...
-84d572bd-97ac-4e8e-a5fe-ae435669b520 = 当然这只是一种理论...
+84d572bd-97ac-4e8e-a5fe-ae435669b520 = 这只是其中一种理论...
 
 //2997. ORIGINAL [#FF00B050]: You have a better one?
-5d97d31d-23c2-4dcd-b5a9-00f46276d376 = 你有更好的消息吗 ？
+5d97d31d-23c2-4dcd-b5a9-00f46276d376 = 那你有更好的理论吗？
 
 //2998. ORIGINAL [#FF00B050]: I've heard there are people who can survive it.
-cf7c572e-cb89-4411-8b20-6d2824a50772 = 我已经听说有人可以免受这个病毒的感染
+cf7c572e-cb89-4411-8b20-6d2824a50772 = 我听说有人可以免受这个病毒的感染
 
 //2999. ORIGINAL [#FF00B050]: They're vegan. I'd put every dollar in my wallet on that.
-bf2ac8b5-c91e-4644-920d-2916d48732ba = 他们是素食主义者, 我非常确信这一点.
+bf2ac8b5-c91e-4644-920d-2916d48732ba = 他们是素食主义者, 我拿我所有身家和你打赌
 
 //3000. ORIGINAL [#FF8080FF]: Professor Endsleigh thank you for...
-5092f1f3-29fb-4529-8b28-a22ddbbdce75 = 感谢你的帮助, Endsieigh 博士.
+5092f1f3-29fb-4529-8b28-a22ddbbdce75 = 恩斯莱教授，感谢你的...
 
 //3001. ORIGINAL [#FF00B050]: Have we mentioned my book?
 72a3fbe6-19ea-4bea-83bc-02709360c329 = 我们提到过我的书吗？
